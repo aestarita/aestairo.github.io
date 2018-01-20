@@ -1,23 +1,276 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.ibecome.com" resolutions="1x" timestamp="1498107952323">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1516428736256">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="524413354" ref="index"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_p-i.css" crc="496884338" ref="pi"/>
+    <file name="master_dilution.css" crc="3896959063" ref="diluton"/>
+    <file name="master_drifting.css" crc="3990690295" ref="drifting"/>
+    <file name="master_maad.css" crc="3935191892" ref="maad"/>
+    <file name="master_von.css" crc="12964998" ref="von"/>
+    <file name="master_attempt5.css" crc="4196757909" ref="intento-no.5"/>
+    <file name="master_observaci_n.css" crc="3842564240" ref="observación-i"/>
+    <file name="master_drop.css" crc="430904271" ref="drop"/>
+    <file name="master_a-master.css" crc="4241024855" ref="bio:intento-no.5:maad:diluton:drop:c3:von:index:contacto:observación-i:drifting:shifting-g22:pi"/>
+    <file name="master_contacto.css" crc="60469980" ref="contacto"/>
+    <file name="master_r-vv.css" crc="4287462146" ref="shifting-g22"/>
+    <file name="master_bio.css" crc="3876018111" ref="bio"/>
+    <file name="master_c.css" crc="323905061" ref="c3"/>
+    <file name="bio.css" crc="4138238852" ref="bio"/>
+    <file name="intento-no_5.css" crc="3875024580" ref="intento-no.5"/>
+    <file name="maad.css" crc="350597751" ref="maad"/>
+    <file name="diluton.css" crc="3819885555" ref="diluton"/>
+    <file name="drop.css" crc="104830688" ref="drop"/>
+    <file name="c3.css" crc="137797900" ref="c3"/>
+    <file name="von.css" crc="4199181973" ref="von"/>
+    <file name="index.css" crc="305717755" ref="index"/>
+    <file name="contacto.css" crc="114546384" ref="contacto"/>
+    <file name="observaci_n-i.css" crc="14947366" ref="observación-i"/>
+    <file name="drifting.css" crc="4224360494" ref="drifting"/>
+    <file name="shifting-g22.css" crc="209090131" ref="shifting-g22"/>
+    <file name="pi.css" crc="3971845974" ref="pi"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
-    <file name="museutils.js" crc="4155826306" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="483509463" ref="index"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
-    <file name="require.js" crc="228336483" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="museutils.js" crc="4216313831" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="museconfig.js" crc="474374037" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="jquery.watch.js" crc="460461809" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="require.js" crc="3951022091" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="webpro.js" crc="4143865194" ref="intento-no.5:observación-i:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="intento-no.5:observación-i:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="intento-no.5:observación-i:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="touchswipe.js" crc="4200445185" ref="intento-no.5:observación-i:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
   </folder>
   <folder name="images">
-    <file name="bg.jpg" crc="140925766" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="erase_edit.jpg" crc="4228467851" seo="true" ref="index"/>
-    <file name="lynchingwithout.jpg" crc="81832760" seo="true" ref="index"/>
-    <file name="derwildwestshow.jpg" crc="4142947562" seo="true" ref="index"/>
+    <file name="a-master-favicon.ico" crc="438831552" ref="index:shifting-g22"/>
+    <file name="u379-4.png" crc="261650489" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3932-4.png" crc="366286580" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3929-4.png" crc="4099055992" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1030.png" crc="393300246" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="blank.gif" crc="4208392903" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u647.png" crc="457904610" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u647-r.png" crc="3769615036" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u647-m.png" crc="457904610" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u647-a.png" crc="3769615036" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u666.png" crc="438981596" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u666-r.png" crc="3976297482" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u666-m.png" crc="438981596" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u666-a.png" crc="3976297482" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4027.png" crc="4051814893" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4027-r.png" crc="3798938434" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4027-m.png" crc="4051814893" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4027-a.png" crc="3798938434" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1088-4.png" crc="4082030929" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1087.png" crc="393300246" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1096.png" crc="530238595" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1096-r.png" crc="462945321" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1096-m.png" crc="530238595" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1096-a.png" crc="462945321" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1099.png" crc="3942384123" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1099-r.png" crc="362814805" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1099-m.png" crc="3942384123" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1099-a.png" crc="362814805" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4085.png" crc="3877875578" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4085-r.png" crc="73135771" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4085-m.png" crc="3877875578" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4085-a.png" crc="73135771" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4112.png" crc="3941880339" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4112-r.png" crc="4067313048" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4112-m.png" crc="3941880339" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4112-a.png" crc="4067313048" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4499.png" crc="3903867586" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4499-r.png" crc="4008702493" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4499-m.png" crc="3903867586" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u4499-a.png" crc="4008702493" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5684.png" crc="3897075824" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5684-r.png" crc="459226662" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5684-m.png" crc="3897075824" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5684-a.png" crc="459226662" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5375.png" crc="4203579503" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5375-r.png" crc="410586714" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5375-m.png" crc="4203579503" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5375-a.png" crc="410586714" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1085-4.png" crc="4001576578" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1077.png" crc="393300246" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1074.png" crc="4190368820" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1074-r.png" crc="144637632" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1074-m.png" crc="4190368820" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1074-a.png" crc="144637632" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1084.png" crc="345592062" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1084-r.png" crc="4134292539" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1084-m.png" crc="345592062" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u1084-a.png" crc="4134292539" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3067.png" crc="100839386" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3067-r.png" crc="4119468996" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3067-m.png" crc="100839386" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u3067-a.png" crc="4119468996" ref="index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
+    <file name="u5069-4.png" crc="3809690326" ref="intento-no.5"/>
+    <file name="grado_001_03_x1_0059.jpg" crc="4030135128" seo="true" ref="intento-no.5">
+      <caption webpage="intento-no.5" alt=""/>
+    </file>
+    <file name="u5074.png" crc="459963706" ref="intento-no.5"/>
+    <file name="u5074-r.png" crc="3874452419" ref="intento-no.5"/>
+    <file name="u5074-m.png" crc="524519750" ref="intento-no.5"/>
+    <file name="u5074-a.png" crc="524519750" ref="intento-no.5"/>
+    <file name="u5082-13.png" crc="3843570250" ref="intento-no.5"/>
+    <file name="u5068.png" crc="4032620115" ref="intento-no.5"/>
+    <file name="u1900-4.png" crc="110907829" ref="observación-i"/>
+    <file name="observation i still 1.jpg" crc="310877512" seo="true" ref="observación-i">
+      <caption webpage="observación-i" alt=""/>
+    </file>
+    <file name="u4534.png" crc="459963706" ref="observación-i"/>
+    <file name="u4534-r.png" crc="3874452419" ref="observación-i"/>
+    <file name="u4534-m.png" crc="524519750" ref="observación-i"/>
+    <file name="u4534-a.png" crc="524519750" ref="observación-i"/>
+    <file name="u4531-5.png" crc="4014534944" ref="observación-i"/>
+    <file name="u1857.png" crc="4032620115" ref="observación-i"/>
+    <file name="u2843-4.png" crc="183906962" ref="bio"/>
+    <file name="u2840.png" crc="4032620115" ref="bio"/>
+    <file name="u2852-4.png" crc="157747947" ref="contacto"/>
+    <file name="u2853.png" crc="4032620115" ref="contacto"/>
+    <file name="u4272-4.png" crc="3997620078" ref="von"/>
+    <file name="still1.jpg" crc="3780698175" seo="true" ref="von">
+      <caption webpage="von" alt=""/>
+    </file>
+    <file name="u4363.png" crc="459963706" ref="von"/>
+    <file name="u4363-r.png" crc="3874452419" ref="von"/>
+    <file name="u4363-m.png" crc="524519750" ref="von"/>
+    <file name="u4363-a.png" crc="524519750" ref="von"/>
+    <file name="u4360-4.png" crc="528094997" ref="von"/>
+    <file name="still2.jpg" crc="446926536" seo="true" ref="von">
+      <caption webpage="von" alt=""/>
+    </file>
+    <file name="u4273.png" crc="4032620115" ref="von"/>
+    <file name="u4407-4.png" crc="3952263437" ref="diluton"/>
+    <file name="dilution.jpg" crc="124972388" seo="true" ref="diluton">
+      <caption webpage="diluton" alt=""/>
+    </file>
+    <file name="u4391.png" crc="459963706" ref="diluton"/>
+    <file name="u4391-r.png" crc="3874452419" ref="diluton"/>
+    <file name="u4391-m.png" crc="524519750" ref="diluton"/>
+    <file name="u4391-a.png" crc="524519750" ref="diluton"/>
+    <file name="u4400-14.png" crc="240293507" ref="diluton"/>
+    <file name="u4406.png" crc="4032620115" ref="diluton"/>
+    <file name="u4674-4.png" crc="328050121" ref="maad"/>
+    <file name="u4673.png" crc="4032620115" ref="maad"/>
+    <file name="maad_landlordestaritaleema_screener.jpg" crc="3780474629" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="u4658.png" crc="459963706" ref="maad"/>
+    <file name="u4658-r.png" crc="3874452419" ref="maad"/>
+    <file name="u4658-m.png" crc="524519750" ref="maad"/>
+    <file name="u4658-a.png" crc="524519750" ref="maad"/>
+    <file name="maad_landlordleeestaritama_still1.jpg" crc="3970192508" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="maad_landlordleeestaritama_still560x34.jpg" crc="3771634622" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="u4667-11.png" crc="4282811356" ref="maad"/>
+    <file name="maad_landlordleeestaritama_still3.jpg" crc="4033186335" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="maad_landlordleeestaritama_still5.jpg" crc="4240452837" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="u4857-4.png" crc="3829508377" ref="drifting"/>
+    <file name="drifting.jpg" crc="150641794" seo="true" ref="drifting">
+      <caption webpage="drifting" alt=""/>
+    </file>
+    <file name="u4868.png" crc="459963706" ref="drifting"/>
+    <file name="u4868-r.png" crc="3874452419" ref="drifting"/>
+    <file name="u4868-m.png" crc="524519750" ref="drifting"/>
+    <file name="u4868-a.png" crc="524519750" ref="drifting"/>
+    <file name="u4873-13.png" crc="3969037159" ref="drifting"/>
+    <file name="u4858.png" crc="4032620115" ref="drifting"/>
+    <file name="u4986-4.png" crc="3940154135" ref="pi"/>
+    <file name="pi.jpg" crc="403228129" seo="true" ref="pi">
+      <caption webpage="pi" alt=""/>
+    </file>
+    <file name="u4997.png" crc="459963706" ref="pi"/>
+    <file name="u4997-r.png" crc="3874452419" ref="pi"/>
+    <file name="u4997-m.png" crc="524519750" ref="pi"/>
+    <file name="u4997-a.png" crc="524519750" ref="pi"/>
+    <file name="u5002-19.png" crc="313767294" ref="pi"/>
+    <file name="u4987.png" crc="4032620115" ref="pi"/>
+    <file name="u5912-4.png" crc="104549458" ref="shifting-g22"/>
+    <file name="shifting-crop-u6030.jpg" crc="374791532" seo="true" ref="shifting-g22">
+      <caption webpage="shifting-g22" alt=""/>
+    </file>
+    <file name="u5934.png" crc="459963706" ref="shifting-g22"/>
+    <file name="u5934-r.png" crc="3874452419" ref="shifting-g22"/>
+    <file name="u5934-m.png" crc="524519750" ref="shifting-g22"/>
+    <file name="u5934-a.png" crc="524519750" ref="shifting-g22"/>
+    <file name="img_992466x44.jpg" crc="3803203977" seo="true" ref="shifting-g22">
+      <caption webpage="shifting-g22" alt=""/>
+    </file>
+    <file name="img_9924.jpg" crc="4048637074" seo="true" ref="shifting-g22">
+      <caption webpage="shifting-g22" alt=""/>
+    </file>
+    <file name="u6014-6.png" crc="146000665" ref="shifting-g22"/>
+    <file name="u5913.png" crc="4032620115" ref="shifting-g22"/>
+    <file name="u6097-4.png" crc="4010018664" ref="c3"/>
+    <file name="gscnstill.jpg" crc="4269254287" seo="true" ref="c3">
+      <caption webpage="c3" alt=""/>
+    </file>
+    <file name="u6119.png" crc="459963706" ref="c3"/>
+    <file name="u6119-r.png" crc="3874452419" ref="c3"/>
+    <file name="u6119-m.png" crc="524519750" ref="c3"/>
+    <file name="u6119-a.png" crc="524519750" ref="c3"/>
+    <file name="u6110-7.png" crc="21086056" ref="c3"/>
+    <file name="u6098.png" crc="4032620115" ref="c3"/>
+    <file name="u6205-4.png" crc="4207500901" ref="drop"/>
+    <file name="drop.jpg" crc="474311844" seo="true" ref="drop">
+      <caption webpage="drop" alt=""/>
+    </file>
+    <file name="u6166.png" crc="459963706" ref="drop"/>
+    <file name="u6166-r.png" crc="3874452419" ref="drop"/>
+    <file name="u6166-m.png" crc="524519750" ref="drop"/>
+    <file name="u6166-a.png" crc="524519750" ref="drop"/>
+    <file name="u6157-7.png" crc="181721002" ref="drop"/>
+    <file name="u6206.png" crc="4032620115" ref="drop"/>
+    <file name="u2841-7.png" crc="289720305" ref="bio"/>
+    <file name="u2850-6.png" crc="498206250" ref="contacto"/>
+    <file name="u5925-13.png" crc="155867108" ref="shifting-g22"/>
   </folder>
-  <file name="index.html" crc="3923851450" seo="true" mt="1498107879604" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.css" crc="315114820" ref="tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas"/>
+      <file name="intento-no_9.css" crc="315114820" ref="tablet>intento-no.9"/>
+      <file name="c-de-improbable.css" crc="315114820" ref="tablet>c-de-improbable"/>
+      <file name="intentos-de-resistencia.css" crc="315114820" ref="tablet>intentos-de-resistencia"/>
+      <file name="l_neas.css" crc="315114820" ref="tablet>líneas"/>
+      <file name="observaci_n-i.css" crc="315114820" ref="tablet>observación-i"/>
+      <file name="intento-no_6.css" crc="315114820" ref="tablet>intento-no.6"/>
+      <file name="index.css" crc="315114820" ref="tablet>index"/>
+      <file name="bio.css" crc="315114820" ref="tablet>bio"/>
+      <file name="momentum.css" crc="315114820" ref="tablet>momentum"/>
+      <file name="untitled-11.css" crc="315114820" ref="tablet>untitled-11"/>
+    </folder>
+    <file name="index.html" crc="28097980" seo="true" mt="1402529964138" redirect="false"/>
+    <file name="observación-i.html" crc="485289859" seo="true" mt="1402529964187" redirect="false"/>
+    <file name="momentum.html" crc="186093775" seo="true" mt="1516159446843" redirect="false"/>
+    <file name="intentos-de-resistencia.html" crc="4123875673" seo="true" mt="1516162984327" redirect="false"/>
+    <file name="intento-no.6.html" crc="4211517125" seo="true" mt="1516162186956" redirect="false"/>
+    <file name="intento-no.9.html" crc="3785087138" seo="true" mt="1516165086579" redirect="false"/>
+    <file name="c-de-improbable.html" crc="27927625" seo="true" mt="1516165081271" redirect="false"/>
+    <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.html" crc="368116953" seo="true" mt="1516165083369" redirect="false"/>
+    <file name="líneas.html" crc="172457450" seo="true" mt="1516159451901" redirect="false"/>
+    <file name="bio.html" crc="113043976" seo="true" mt="1402529964800" redirect="false"/>
+    <file name="untitled-11.html" crc="432280943" seo="true" mt="1516423618193" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="113623188" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="intento-no.5.html" crc="171728943" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="observación-i.html" crc="463359977" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="bio.html" crc="79626857" seo="true" mt="1516428063900" redirect="true"/>
+  <file name="contacto.html" crc="3864479435" seo="true" mt="1516428076450" redirect="true"/>
+  <file name="von.html" crc="51510159" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="diluton.html" crc="327229788" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="maad.html" crc="3846834323" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="drifting.html" crc="3898186890" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="pi.html" crc="372987758" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="shifting-g22.html" crc="301649230" seo="true" mt="1516428723699" redirect="true"/>
+  <file name="c3.html" crc="77432944" seo="true" mt="1516428007589" redirect="true"/>
+  <file name="drop.html" crc="373878102" seo="true" mt="1516428007589" redirect="true"/>
 </manifest>

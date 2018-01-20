@@ -1,33 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.ibecome.com/index.html</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://aestarita.com/index.html</loc>
+    <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.ibecome.com/images/erase_edit.jpg</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://aestarita.com/tablet/intentos-de-resistencia.html</loc>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.ibecome.com/images/bg.jpg</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://aestarita.com/tablet/intento-no.6.html</loc>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.ibecome.com/images/derwildwestshow.jpg</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://aestarita.com/tablet/intento-no.9.html</loc>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.ibecome.com/images/lynchingwithout.jpg</loc>
-    <lastmod>2017-06-21</lastmod>
+    <loc>http://aestarita.com/tablet/c-de-improbable.html</loc>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/tablet/compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.html</loc>
+    <lastmod>2018-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/tablet/l%C3%ADneas.html</loc>
+    <lastmod>2018-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/tablet/untitled-11.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/observaci%C3%B3n-i.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/observation%20i%20still%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/intento-no.5.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/grado_001_03_x1_0059.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/tablet/momentum.html</loc>
+    <lastmod>2018-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/bio.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/contacto.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/von.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/diluton.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/maad.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still560x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/drifting.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drifting.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/pi.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pi.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/shifting-g22.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/shifting-crop-u6030.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/img_992466x44.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/img_9924.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/c3.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/gscnstill.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/drop.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drop.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
