@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1516430081557">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1516430447811">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_p-i.css" crc="496884338" ref="pi"/>
@@ -14,19 +14,19 @@
     <file name="master_r-vv.css" crc="4287462146" ref="shifting-g22"/>
     <file name="master_bio.css" crc="3876018111" ref="bio"/>
     <file name="master_c.css" crc="323905061" ref="c3"/>
-    <file name="bio.css" crc="342116856" ref="bio"/>
-    <file name="intento-no_5.css" crc="316966094" ref="intento-no.5"/>
-    <file name="maad.css" crc="90546006" ref="maad"/>
-    <file name="diluton.css" crc="286771351" ref="diluton"/>
-    <file name="drop.css" crc="219330887" ref="drop"/>
-    <file name="c3.css" crc="507831851" ref="c3"/>
-    <file name="von.css" crc="3969616208" ref="von"/>
-    <file name="index.css" crc="4211306715" ref="index"/>
-    <file name="contacto.css" crc="240985011" ref="contacto"/>
-    <file name="observaci_n-i.css" crc="362481736" ref="observación-i"/>
-    <file name="drifting.css" crc="413837854" ref="drifting"/>
-    <file name="shifting-g22.css" crc="3869495898" ref="shifting-g22"/>
-    <file name="pi.css" crc="4135741442" ref="pi"/>
+    <file name="bio.css" crc="4098407776" ref="bio"/>
+    <file name="intento-no_5.css" crc="4032994761" ref="intento-no.5"/>
+    <file name="maad.css" crc="4113204087" ref="maad"/>
+    <file name="diluton.css" crc="61174624" ref="diluton"/>
+    <file name="drop.css" crc="4258716649" ref="drop"/>
+    <file name="c3.css" crc="61902562" ref="c3"/>
+    <file name="von.css" crc="3841352969" ref="von"/>
+    <file name="index.css" crc="149396471" ref="index"/>
+    <file name="contacto.css" crc="156022163" ref="contacto"/>
+    <file name="observaci_n-i.css" crc="3956714721" ref="observación-i"/>
+    <file name="drifting.css" crc="3884064940" ref="drifting"/>
+    <file name="shifting-g22.css" crc="405268210" ref="shifting-g22"/>
+    <file name="pi.css" crc="185787286" ref="pi"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:contacto:von:diluton:maad:drifting:pi:shifting-g22:c3:drop"/>
@@ -260,17 +260,17 @@
     <file name="bio.html" crc="113043976" seo="true" mt="1402529964800" redirect="false"/>
     <file name="untitled-11.html" crc="432280943" seo="true" mt="1516423618193" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4272727225" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="intento-no.5.html" crc="59343818" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="observación-i.html" crc="164825771" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="bio.html" crc="4162922339" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="contacto.html" crc="122272114" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="von.html" crc="428672842" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="diluton.html" crc="3946405565" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="maad.html" crc="3839319403" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="drifting.html" crc="55422934" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="pi.html" crc="220926660" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="shifting-g22.html" crc="3950975908" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="c3.html" crc="192123717" seo="true" mt="1516430038677" redirect="true"/>
-  <file name="drop.html" crc="47884876" seo="true" mt="1516430038677" redirect="true"/>
+  <file name="index.html" crc="43091694" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="intento-no.5.html" crc="3822860129" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="observación-i.html" crc="4098497147" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="bio.html" crc="523597889" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="contacto.html" crc="4151727586" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="von.html" crc="249512341" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="diluton.html" crc="4062869686" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="maad.html" crc="4092288770" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="drifting.html" crc="4010617512" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="pi.html" crc="4184393939" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="shifting-g22.html" crc="4153077083" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="c3.html" crc="212904679" seo="true" mt="1516430364424" redirect="true"/>
+  <file name="drop.html" crc="3972426891" seo="true" mt="1516430364424" redirect="true"/>
 </manifest>
