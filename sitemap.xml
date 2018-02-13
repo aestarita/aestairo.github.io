@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,21 +49,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aestarita.com/observaci%C3%B3n-i.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <loc>http://aestarita.com/bio.html</loc>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/observation%20i%20still%201.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/intento-no.5.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://aestarita.com/images/grado_001_03_x1_0059.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/observaci%C3%B3n-i.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/observation%20i%20still%201.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -73,20 +79,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aestarita.com/bio.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://aestarita.com/contacto.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/von.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/diluton.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/maad.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/drifting.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +137,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/pi.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/shifting-g22.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -161,7 +161,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/c3.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -170,11 +170,20 @@
   </url>
   <url>
     <loc>http://aestarita.com/drop.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://aestarita.com/images/drop.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/prot-floto.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
