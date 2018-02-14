@@ -5,6 +5,48 @@
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5-crop-u6855.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still1-crop-u6860.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protoflotogalaxyselfie-crop-u6847.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution-crop-u6841.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drop-crop-u6979.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/shifting2-crop-u6869.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/gscnstill-crop-u6962.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drifting-crop-u6945.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pi-crop-u6996.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/observation%20i%20still%202-crop-u7023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/p1120103_0002_background-crop-u7013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/intento%20de%20resistencia%209%20still%202-crop-u6849.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/hiperespacio-crop-u6843.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/recorder-crop-u6845.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/tablet/intentos-de-resistencia.html</loc>
@@ -49,28 +91,49 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aestarita.com/bio.html</loc>
+    <loc>http://aestarita.com/diluton.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7478.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/intento-no.5.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/grado_001_03_x1_0059.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/observaci%C3%B3n-i.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/bio.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/observation%20i%20still%201.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/dsc06409-crop-u7907.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/von.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/tablet/momentum.html</loc>
@@ -79,51 +142,18 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aestarita.com/contacto.html</loc>
-    <lastmod>2018-02-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aestarita.com/von.html</loc>
-    <lastmod>2018-02-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/still1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/still2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aestarita.com/diluton.html</loc>
-    <lastmod>2018-02-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aestarita.com/maad.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still560x34.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -131,18 +161,12 @@
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/drifting.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/pi.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/pi.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/shifting-g22.html</loc>
@@ -150,10 +174,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/shifting-crop-u6030.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/img_992466x44.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/img_0074.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/img_9924.jpg</image:loc>
@@ -164,18 +185,12 @@
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/gscnstill.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/drop.html</loc>
     <lastmod>2018-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/drop.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/prot-floto.html</loc>
@@ -183,7 +198,112 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/protoflotogalaxyselfie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protofloatoinstagram.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/alleypretty.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protofloto103.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/attempt-no.9.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/intento%20de%20resistencia%209%20still%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/intento%20de%20resistencia%209%20still%206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/intento%20de%20resistencia%209%20still%203.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/hiperespacio.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/recorder.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/installation.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5-crop-u8225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still1-crop-u8241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protoflotogalaxyselfie-crop-u8221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution-crop-u8247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/shifting2-crop-u8529.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/intento%20de%20resistencia%209%20still%202-crop-u8239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/hiperespacio-crop-u8217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/recorder-crop-u8237.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/vrar.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5-crop-u8356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still1-crop-u8372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drop-crop-u8366.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/film.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/gscnstill-crop-u8507.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/drifting-crop-u8492.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pi-crop-u8476.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/observation%20i%20still%202-crop-u8485.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/p1120103_0002_background-crop-u8470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/shifting2-crop-u8489.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
