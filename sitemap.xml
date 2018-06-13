@@ -2,9 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2018-02-14</lastmod>
+    <lastmod>2018-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pressurepointsstill3-crop-u8663.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still5-crop-u6855.jpg</image:loc>
     </image:image>
@@ -91,21 +94,21 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://aestarita.com/diluton.html</loc>
-    <lastmod>2018-02-13</lastmod>
+    <loc>http://aestarita.com/maad.html</loc>
+    <lastmod>2018-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7472.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/dilution%20(1).jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7478.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/maad_i_topplanet-c_v01_ace.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -136,28 +139,28 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://aestarita.com/diluton.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/dilution%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pasted%20image%203840x1210-crop-u7478.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://aestarita.com/tablet/momentum.html</loc>
     <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aestarita.com/maad.html</loc>
-    <lastmod>2018-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/maad_i_topplanet-c_v01_ace.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/drifting.html</loc>
@@ -307,6 +310,21 @@
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/shifting2-crop-u8489.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/ppoints.html</loc>
+    <lastmod>2018-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pressurepointsstill1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pressurepointsstill3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pressurepointsstill4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

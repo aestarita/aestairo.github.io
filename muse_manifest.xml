@@ -1,128 +1,134 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1518632927995">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1528931908774">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_about.css" crc="4231646237" ref="bio"/>
-    <file name="master_pi.css" crc="4293693989" ref="pi"/>
-    <file name="master_attempt-no_9.css" crc="198936321" ref="attempt-no.9"/>
-    <file name="master_film.css" crc="4267693376" ref="film"/>
-    <file name="master_dilution.css" crc="3933548900" ref="diluton"/>
     <file name="master_vr.css" crc="611114" ref="vrar"/>
-    <file name="master_maad.css" crc="3814450767" ref="maad"/>
-    <file name="master_a-master.css" crc="4260847586" ref="index:attempt-no.9:intento-no.5:film:maad:shifting-g22:bio:observación-i:diluton:installation:prot-floto:pi:recorder:vrar:von:drop:hiperespacio:c3:drifting"/>
-    <file name="master_hiperespace.css" crc="4147261458" ref="hiperespacio"/>
-    <file name="master_drop.css" crc="5525738" ref="drop"/>
+    <file name="master_fullmaster.css" crc="4022461682" ref="index"/>
     <file name="master_drift.css" crc="3991845927" ref="drifting"/>
-    <file name="master_proto.css" crc="4190415989" ref="prot-floto"/>
-    <file name="master_shifting-g22.css" crc="502148333" ref="shifting-g22"/>
-    <file name="master_installation.css" crc="4286733168" ref="installation"/>
-    <file name="master_attempt-5.css" crc="270586515" ref="intento-no.5"/>
-    <file name="master_recorder.css" crc="3975176509" ref="recorder"/>
-    <file name="master_observation.css" crc="178702901" ref="observación-i"/>
-    <file name="master_fullmaster.css" crc="4051576378" ref="index"/>
     <file name="master_c3.css" crc="359600868" ref="c3"/>
+    <file name="master_observation.css" crc="178702901" ref="observación-i"/>
+    <file name="master_attempt-5.css" crc="270586515" ref="intento-no.5"/>
+    <file name="master_maad.css" crc="3814450767" ref="maad"/>
+    <file name="master_ppoints.css" crc="4100790572" ref="ppoints"/>
+    <file name="master_installation.css" crc="4286733168" ref="installation"/>
+    <file name="master_pi.css" crc="4293693989" ref="pi"/>
+    <file name="master_proto.css" crc="4190415989" ref="prot-floto"/>
     <file name="master_von.css" crc="3760092784" ref="von"/>
-    <file name="index.css" crc="3762173749" ref="index"/>
-    <file name="attempt-no_9.css" crc="517581810" ref="attempt-no.9"/>
-    <file name="intento-no_5.css" crc="3770812901" ref="intento-no.5"/>
-    <file name="film.css" crc="3860007758" ref="film"/>
-    <file name="maad.css" crc="104141951" ref="maad"/>
-    <file name="shifting-g22.css" crc="440615545" ref="shifting-g22"/>
-    <file name="bio.css" crc="113560704" ref="bio"/>
-    <file name="observaci_n-i.css" crc="91480039" ref="observación-i"/>
-    <file name="diluton.css" crc="517731526" ref="diluton"/>
-    <file name="installation.css" crc="3913977668" ref="installation"/>
-    <file name="prot-floto.css" crc="230990294" ref="prot-floto"/>
+    <file name="master_recorder.css" crc="3975176509" ref="recorder"/>
+    <file name="master_a-master.css" crc="4260847586" ref="pi:hiperespacio:recorder:observación-i:installation:maad:film:von:vrar:diluton:bio:drifting:shifting-g22:index:c3:drop:prot-floto:intento-no.5:attempt-no.9:ppoints"/>
+    <file name="master_about.css" crc="4231646237" ref="bio"/>
+    <file name="master_dilution.css" crc="3933548900" ref="diluton"/>
+    <file name="master_hiperespace.css" crc="4147261458" ref="hiperespacio"/>
+    <file name="master_shifting-g22.css" crc="502148333" ref="shifting-g22"/>
+    <file name="master_film.css" crc="4267693376" ref="film"/>
+    <file name="master_drop.css" crc="5525738" ref="drop"/>
+    <file name="master_attempt-no_9.css" crc="198936321" ref="attempt-no.9"/>
     <file name="pi.css" crc="4242969029" ref="pi"/>
-    <file name="recorder.css" crc="63624305" ref="recorder"/>
-    <file name="vrar.css" crc="4199324114" ref="vrar"/>
-    <file name="von.css" crc="168344789" ref="von"/>
-    <file name="drop.css" crc="3977536985" ref="drop"/>
     <file name="hiperespacio.css" crc="495417921" ref="hiperespacio"/>
-    <file name="c3.css" crc="3784478340" ref="c3"/>
+    <file name="recorder.css" crc="63624305" ref="recorder"/>
+    <file name="observaci_n-i.css" crc="91480039" ref="observación-i"/>
+    <file name="installation.css" crc="3913977668" ref="installation"/>
+    <file name="maad.css" crc="104141951" ref="maad"/>
+    <file name="film.css" crc="3860007758" ref="film"/>
+    <file name="von.css" crc="168344789" ref="von"/>
+    <file name="vrar.css" crc="4199324114" ref="vrar"/>
+    <file name="diluton.css" crc="517731526" ref="diluton"/>
+    <file name="bio.css" crc="113560704" ref="bio"/>
     <file name="drifting.css" crc="4026689114" ref="drifting"/>
+    <file name="shifting-g22.css" crc="440615545" ref="shifting-g22"/>
+    <file name="index.css" crc="92187554" ref="index"/>
+    <file name="c3.css" crc="3784478340" ref="c3"/>
+    <file name="drop.css" crc="3977536985" ref="drop"/>
+    <file name="prot-floto.css" crc="230990294" ref="prot-floto"/>
+    <file name="intento-no_5.css" crc="3770812901" ref="intento-no.5"/>
+    <file name="attempt-no_9.css" crc="3984690136" ref="attempt-no.9"/>
+    <file name="ppoints.css" crc="3830120285" ref="ppoints"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="museutils.js" crc="4216313831" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="museconfig.js" crc="474374037" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="jquery.watch.js" crc="460461809" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="require.js" crc="3951022091" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="museutils.js" crc="4216313831" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="museconfig.js" crc="474374037" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="jquery.watch.js" crc="460461809" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="require.js" crc="3951022091" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="438831552" ref="index"/>
-    <file name="u6514-4.png" crc="4172056748" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6515-4.png" crc="4233637160" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6901-4.png" crc="291929219" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6904-4.png" crc="4187940012" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6907-4.png" crc="90175099" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6910-4.png" crc="501075994" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6895-4.png" crc="224464879" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
+    <file name="u6514-4.png" crc="4172056748" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6515-4.png" crc="4233637160" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6901-4.png" crc="291929219" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6904-4.png" crc="4187940012" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6907-4.png" crc="90175099" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6910-4.png" crc="501075994" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6895-4.png" crc="224464879" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="pressurepointsstill3-crop-u8663.jpg" crc="173324219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="maad_landlordleeestaritama_still5-crop-u6855.jpg" crc="3798302183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="still1-crop-u6860.jpg" crc="112069731" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u8665-9.png" crc="444231479" ref="index"/>
+    <file name="u6859-9.png" crc="4250606390" ref="index"/>
+    <file name="u6839-9.png" crc="3922646842" ref="index"/>
     <file name="protoflotogalaxyselfie-crop-u6847.jpg" crc="4234369275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6859-9.png" crc="4250606390" ref="index"/>
-    <file name="u6839-9.png" crc="3922646842" ref="index"/>
-    <file name="u6816-9.png" crc="4193373857" ref="index"/>
     <file name="dilution-crop-u6841.jpg" crc="347376521" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="drop-crop-u6979.jpg" crc="3938165122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u6816-9.png" crc="4193373857" ref="index"/>
+    <file name="u6857-9.png" crc="182441981" ref="index"/>
+    <file name="u6981-9.png" crc="504995381" ref="index"/>
     <file name="shifting2-crop-u6869.jpg" crc="4195263051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6857-9.png" crc="182441981" ref="index"/>
-    <file name="u6981-9.png" crc="504995381" ref="index"/>
-    <file name="u6871-9.png" crc="181792963" ref="index"/>
     <file name="gscnstill-crop-u6962.jpg" crc="4090044491" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="drifting-crop-u6945.jpg" crc="125829467" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u6871-9.png" crc="181792963" ref="index"/>
+    <file name="u6964-9.png" crc="451036812" ref="index"/>
+    <file name="u6947-9.png" crc="94223666" ref="index"/>
     <file name="pi-crop-u6996.jpg" crc="4198583956" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6964-9.png" crc="451036812" ref="index"/>
-    <file name="u6947-9.png" crc="94223666" ref="index"/>
-    <file name="u6998-9.png" crc="4234539804" ref="index"/>
     <file name="observation i still 2-crop-u7023.jpg" crc="3937675898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1120103_0002_background-crop-u7013.jpg" crc="4026853222" seo="true" ref="index">
+    <file name="p1120103_0002_background-crop-u7013.jpg" crc="4055817898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u6998-9.png" crc="4234539804" ref="index"/>
+    <file name="u7025-9.png" crc="4094230795" ref="index"/>
+    <file name="u7015-9.png" crc="3832381793" ref="index"/>
     <file name="intento de resistencia 9 still 2-crop-u6849.jpg" crc="226642818" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7025-9.png" crc="4094230795" ref="index"/>
-    <file name="u7015-9.png" crc="3832381793" ref="index"/>
-    <file name="u6858-9.png" crc="138892686" ref="index"/>
     <file name="hiperespacio-crop-u6843.jpg" crc="86394386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="recorder-crop-u6845.jpg" crc="363386187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u6858-9.png" crc="138892686" ref="index"/>
     <file name="u6840-9.png" crc="4153497194" ref="index"/>
     <file name="u6854-9.png" crc="220101635" ref="index"/>
-    <file name="u6936-4.png" crc="4104727955" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6939-4.png" crc="3809865973" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
-    <file name="u6942-4.png" crc="413796211" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film"/>
+    <file name="u6936-4.png" crc="4104727955" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6939-4.png" crc="3809865973" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="u6942-4.png" crc="413796211" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
     <file name="u8037-4.png" crc="436380558" ref="intento-no.5"/>
     <file name="u8036-11.png" crc="410962051" ref="intento-no.5"/>
     <file name="u8013-4.png" crc="135402515" ref="observación-i"/>
     <file name="u8012-15.png" crc="430118209" ref="observación-i"/>
     <file name="u7896-4.png" crc="4134856018" ref="bio"/>
-    <file name="dsc06409-crop-u7907.jpg" crc="192561736" seo="true" ref="bio">
+    <file name="dsc06409-crop-u7907.jpg" crc="479093560" seo="true" ref="bio">
       <caption webpage="bio" alt=""/>
     </file>
     <file name="u7897-8.png" crc="3774454676" ref="bio"/>
@@ -145,7 +151,7 @@
     <file name="dilution (1).jpg" crc="423186255" seo="true" ref="diluton">
       <caption webpage="diluton" alt=""/>
     </file>
-    <file name="pasted image 3840x1210-crop-u7478.jpg" crc="137940356" seo="true" ref="diluton">
+    <file name="pasted image 3840x1210-crop-u7478.jpg" crc="80003464" seo="true" ref="diluton">
       <caption webpage="diluton" alt=""/>
     </file>
     <file name="u7308-4.png" crc="4033411298" ref="maad"/>
@@ -157,6 +163,9 @@
       <caption webpage="maad" alt=""/>
     </file>
     <file name="maad_landlordestaritaleema_screener.jpg" crc="4210987719" seo="true" ref="maad">
+      <caption webpage="maad" alt=""/>
+    </file>
+    <file name="maad_i_topplanet-c_v01_ace.jpg" crc="4275431919" seo="true" ref="maad">
       <caption webpage="maad" alt=""/>
     </file>
     <file name="u8000-4.png" crc="470909874" ref="drifting"/>
@@ -263,7 +272,7 @@
     <file name="observation i still 2-crop-u8485.jpg" crc="3937675898" seo="true" ref="film">
       <caption webpage="film" alt=""/>
     </file>
-    <file name="p1120103_0002_background-crop-u8470.jpg" crc="4026853222" seo="true" ref="film">
+    <file name="p1120103_0002_background-crop-u8470.jpg" crc="4055817898" seo="true" ref="film">
       <caption webpage="film" alt=""/>
     </file>
     <file name="shifting2-crop-u8489.jpg" crc="4195263051" seo="true" ref="film">
@@ -272,23 +281,31 @@
     <file name="u8506-9.png" crc="4094230795" ref="film"/>
     <file name="u8469-9.png" crc="3832381793" ref="film"/>
     <file name="u8495-9.png" crc="181792963" ref="film"/>
-    <file name="maad_i_topplanet-c_v01_ace.jpg" crc="4275431919" seo="true" ref="maad">
-      <caption webpage="maad" alt=""/>
+    <file name="u8607-4.png" crc="3926640686" ref="ppoints"/>
+    <file name="u8600-7.png" crc="41680069" ref="ppoints"/>
+    <file name="pressurepointsstill1.jpg" crc="349828040" seo="true" ref="ppoints">
+      <caption webpage="ppoints" alt=""/>
+    </file>
+    <file name="pressurepointsstill3.jpg" crc="529889328" seo="true" ref="ppoints">
+      <caption webpage="ppoints" alt=""/>
+    </file>
+    <file name="pressurepointsstill4.jpg" crc="3902031486" seo="true" ref="ppoints">
+      <caption webpage="ppoints" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="momentum.css" crc="315114820" ref="tablet>momentum"/>
-      <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.css" crc="315114820" ref="tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas"/>
-      <file name="intentos-de-resistencia.css" crc="315114820" ref="tablet>intentos-de-resistencia"/>
-      <file name="bio.css" crc="315114820" ref="tablet>bio"/>
       <file name="l_neas.css" crc="315114820" ref="tablet>líneas"/>
       <file name="c-de-improbable.css" crc="315114820" ref="tablet>c-de-improbable"/>
-      <file name="untitled-11.css" crc="315114820" ref="tablet>untitled-11"/>
-      <file name="index.css" crc="315114820" ref="tablet>index"/>
       <file name="intento-no_9.css" crc="315114820" ref="tablet>intento-no.9"/>
       <file name="intento-no_6.css" crc="315114820" ref="tablet>intento-no.6"/>
+      <file name="momentum.css" crc="315114820" ref="tablet>momentum"/>
+      <file name="intentos-de-resistencia.css" crc="315114820" ref="tablet>intentos-de-resistencia"/>
+      <file name="untitled-11.css" crc="315114820" ref="tablet>untitled-11"/>
       <file name="observaci_n-i.css" crc="315114820" ref="tablet>observación-i"/>
+      <file name="index.css" crc="315114820" ref="tablet>index"/>
+      <file name="bio.css" crc="315114820" ref="tablet>bio"/>
+      <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.css" crc="315114820" ref="tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas"/>
     </folder>
     <file name="index.html" crc="28097980" seo="true" mt="1402529964138" redirect="false"/>
     <file name="observación-i.html" crc="485289859" seo="true" mt="1402529964187" redirect="false"/>
@@ -302,12 +319,12 @@
     <file name="bio.html" crc="113043976" seo="true" mt="1402529964800" redirect="false"/>
     <file name="untitled-11.html" crc="432280943" seo="true" mt="1516423618193" redirect="false"/>
   </folder>
-  <file name="index.html" crc="137007162" seo="true" mt="1518632586009" redirect="true"/>
+  <file name="index.html" crc="4046753158" seo="true" mt="1528931632974" redirect="true"/>
   <file name="intento-no.5.html" crc="414044865" seo="true" mt="1518586576393" redirect="true"/>
   <file name="observación-i.html" crc="231388763" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="bio.html" crc="3883671172" seo="true" mt="1518586576393" redirect="true"/>
+  <file name="bio.html" crc="324154302" seo="true" mt="1518586576393" redirect="true"/>
   <file name="von.html" crc="3997554588" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="diluton.html" crc="3883555524" seo="true" mt="1518586576393" redirect="true"/>
+  <file name="diluton.html" crc="4274881138" seo="true" mt="1518586576393" redirect="true"/>
   <file name="maad.html" crc="405211167" seo="true" mt="1518632806993" redirect="true"/>
   <file name="drifting.html" crc="4211014947" seo="true" mt="1518586576393" redirect="true"/>
   <file name="pi.html" crc="264621402" seo="true" mt="1518586576393" redirect="true"/>
@@ -315,10 +332,11 @@
   <file name="c3.html" crc="365982877" seo="true" mt="1518586576393" redirect="true"/>
   <file name="drop.html" crc="263839536" seo="true" mt="1518586576393" redirect="true"/>
   <file name="prot-floto.html" crc="4081747546" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="attempt-no.9.html" crc="4149448880" seo="true" mt="1518586576393" redirect="true"/>
+  <file name="attempt-no.9.html" crc="3802757703" seo="true" mt="1518586576393" redirect="true"/>
   <file name="hiperespacio.html" crc="94630047" seo="true" mt="1518586576393" redirect="true"/>
   <file name="recorder.html" crc="134932728" seo="true" mt="1518586576393" redirect="true"/>
   <file name="installation.html" crc="4180120674" seo="true" mt="1518632691015" redirect="true"/>
   <file name="vrar.html" crc="385131489" seo="true" mt="1518632646531" redirect="true"/>
-  <file name="film.html" crc="324295177" seo="true" mt="1518632624314" redirect="true"/>
+  <file name="film.html" crc="3806898950" seo="true" mt="1518632624314" redirect="true"/>
+  <file name="ppoints.html" crc="529556671" seo="true" mt="1528931812631" redirect="true"/>
 </manifest>
