@@ -1,342 +1,186 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1528931908774">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1553726969896">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_vr.css" crc="611114" ref="vrar"/>
-    <file name="master_fullmaster.css" crc="4022461682" ref="index"/>
-    <file name="master_drift.css" crc="3991845927" ref="drifting"/>
-    <file name="master_c3.css" crc="359600868" ref="c3"/>
-    <file name="master_observation.css" crc="178702901" ref="observación-i"/>
-    <file name="master_attempt-5.css" crc="270586515" ref="intento-no.5"/>
-    <file name="master_maad.css" crc="3814450767" ref="maad"/>
-    <file name="master_ppoints.css" crc="4100790572" ref="ppoints"/>
-    <file name="master_installation.css" crc="4286733168" ref="installation"/>
-    <file name="master_pi.css" crc="4293693989" ref="pi"/>
-    <file name="master_proto.css" crc="4190415989" ref="prot-floto"/>
-    <file name="master_von.css" crc="3760092784" ref="von"/>
-    <file name="master_recorder.css" crc="3975176509" ref="recorder"/>
-    <file name="master_a-master.css" crc="4260847586" ref="pi:hiperespacio:recorder:observación-i:installation:maad:film:von:vrar:diluton:bio:drifting:shifting-g22:index:c3:drop:prot-floto:intento-no.5:attempt-no.9:ppoints"/>
-    <file name="master_about.css" crc="4231646237" ref="bio"/>
-    <file name="master_dilution.css" crc="3933548900" ref="diluton"/>
-    <file name="master_hiperespace.css" crc="4147261458" ref="hiperespacio"/>
-    <file name="master_shifting-g22.css" crc="502148333" ref="shifting-g22"/>
-    <file name="master_film.css" crc="4267693376" ref="film"/>
-    <file name="master_drop.css" crc="5525738" ref="drop"/>
-    <file name="master_attempt-no_9.css" crc="198936321" ref="attempt-no.9"/>
-    <file name="pi.css" crc="4242969029" ref="pi"/>
-    <file name="hiperespacio.css" crc="495417921" ref="hiperespacio"/>
-    <file name="recorder.css" crc="63624305" ref="recorder"/>
-    <file name="observaci_n-i.css" crc="91480039" ref="observación-i"/>
-    <file name="installation.css" crc="3913977668" ref="installation"/>
-    <file name="maad.css" crc="104141951" ref="maad"/>
-    <file name="film.css" crc="3860007758" ref="film"/>
-    <file name="von.css" crc="168344789" ref="von"/>
-    <file name="vrar.css" crc="4199324114" ref="vrar"/>
-    <file name="diluton.css" crc="517731526" ref="diluton"/>
-    <file name="bio.css" crc="113560704" ref="bio"/>
-    <file name="drifting.css" crc="4026689114" ref="drifting"/>
-    <file name="shifting-g22.css" crc="440615545" ref="shifting-g22"/>
-    <file name="index.css" crc="92187554" ref="index"/>
-    <file name="c3.css" crc="3784478340" ref="c3"/>
-    <file name="drop.css" crc="3977536985" ref="drop"/>
-    <file name="prot-floto.css" crc="230990294" ref="prot-floto"/>
-    <file name="intento-no_5.css" crc="3770812901" ref="intento-no.5"/>
-    <file name="attempt-no_9.css" crc="3984690136" ref="attempt-no.9"/>
-    <file name="ppoints.css" crc="3830120285" ref="ppoints"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_frontmaster.css" crc="3885557977" ref="index"/>
+    <file name="master_about.css" crc="319798320" ref="about"/>
+    <file name="master_a-master.css" crc="3965921175" ref="von:gg:pressure-points:index:about:gettyunshuttered:shifting:maad:reel:proto-floto:getty-underworld"/>
+    <file name="von.css" crc="264038427" ref="von"/>
+    <file name="iefonts_von.css" crc="4020638863" ref="von"/>
+    <file name="gg.css" crc="281345174" ref="gg"/>
+    <file name="iefonts_gg.css" crc="3977348151" ref="gg"/>
+    <file name="pressure-points.css" crc="320100842" ref="pressure-points"/>
+    <file name="iefonts_pressure-points.css" crc="4051816782" ref="pressure-points"/>
+    <file name="index.css" crc="4279782260" ref="index"/>
+    <file name="iefonts_index.css" crc="4181767083" ref="index"/>
+    <file name="about.css" crc="3923491703" ref="about"/>
+    <file name="iefonts_about.css" crc="3916249916" ref="about"/>
+    <file name="gettyunshuttered.css" crc="244023746" ref="gettyunshuttered"/>
+    <file name="iefonts_gettyunshuttered.css" crc="417532475" ref="gettyunshuttered"/>
+    <file name="shifting.css" crc="3782473401" ref="shifting"/>
+    <file name="iefonts_shifting.css" crc="4116922192" ref="shifting"/>
+    <file name="maad.css" crc="215301375" ref="maad"/>
+    <file name="iefonts_maad.css" crc="353337238" ref="maad"/>
+    <file name="reel.css" crc="5417462" ref="reel"/>
+    <file name="iefonts_reel.css" crc="282885808" ref="reel"/>
+    <file name="proto-floto.css" crc="4148295057" ref="proto-floto"/>
+    <file name="iefonts_proto-floto.css" crc="123046963" ref="proto-floto"/>
+    <file name="getty-underworld.css" crc="421163604" ref="getty-underworld"/>
+    <file name="iefonts_getty-underworld.css" crc="417532475" ref="getty-underworld"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="museutils.js" crc="4216313831" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="museconfig.js" crc="474374037" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="jquery.watch.js" crc="460461809" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="require.js" crc="3951022091" ref="tablet>index:tablet>observación-i:tablet>momentum:tablet>intentos-de-resistencia:tablet>intento-no.6:tablet>intento-no.9:tablet>c-de-improbable:tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas:tablet>líneas:tablet>bio:tablet>untitled-11:index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="438831552" ref="index"/>
-    <file name="u6514-4.png" crc="4172056748" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6515-4.png" crc="4233637160" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6901-4.png" crc="291929219" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6904-4.png" crc="4187940012" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6907-4.png" crc="90175099" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6910-4.png" crc="501075994" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6895-4.png" crc="224464879" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="pressurepointsstill3-crop-u8663.jpg" crc="173324219" seo="true" ref="index">
+    <file name="mediareelfront-crop-u1189.jpg" crc="353463500" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="maad_landlordleeestaritama_still5-crop-u6855.jpg" crc="3798302183" seo="true" ref="index">
+    <file name="screen-shot-2018-05-24-at-103305-pm_670-crop-u1117.jpg" crc="3968945353" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="still1-crop-u6860.jpg" crc="112069731" seo="true" ref="index">
+    <file name="still1-crop-u1121.jpg" crc="4196964503" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u8665-9.png" crc="444231479" ref="index"/>
-    <file name="u6859-9.png" crc="4250606390" ref="index"/>
-    <file name="u6839-9.png" crc="3922646842" ref="index"/>
-    <file name="protoflotogalaxyselfie-crop-u6847.jpg" crc="4234369275" seo="true" ref="index">
+    <file name="sequence 0200_02_31_22still002-crop-u1113.jpg" crc="482666398" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dilution-crop-u6841.jpg" crc="347376521" seo="true" ref="index">
+    <file name="adamshome-crop-u1119.jpg" crc="453675306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drop-crop-u6979.jpg" crc="3938165122" seo="true" ref="index">
+    <file name="protofloatoinstagram-crop-u1157.jpg" crc="370485982" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6816-9.png" crc="4193373857" ref="index"/>
-    <file name="u6857-9.png" crc="182441981" ref="index"/>
-    <file name="u6981-9.png" crc="504995381" ref="index"/>
-    <file name="shifting2-crop-u6869.jpg" crc="4195263051" seo="true" ref="index">
+    <file name="05-crop-u1115.jpg" crc="159902394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gscnstill-crop-u6962.jpg" crc="4090044491" seo="true" ref="index">
+    <file name="pressurepointsstill3-crop-u1160.jpg" crc="3949918051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drifting-crop-u6945.jpg" crc="125829467" seo="true" ref="index">
+    <file name="shifting4kmp400_00_06_16still001-crop-u1122.jpg" crc="116119329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6871-9.png" crc="181792963" ref="index"/>
-    <file name="u6964-9.png" crc="451036812" ref="index"/>
-    <file name="u6947-9.png" crc="94223666" ref="index"/>
-    <file name="pi-crop-u6996.jpg" crc="4198583956" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="still1.jpg" crc="361369299" seo="true" ref="von">
+      <caption webpage="von" alt=""/>
     </file>
-    <file name="observation i still 2-crop-u7023.jpg" crc="3937675898" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="still3.jpg" crc="346942622" seo="true" ref="von">
+      <caption webpage="von" alt=""/>
     </file>
-    <file name="p1120103_0002_background-crop-u7013.jpg" crc="4055817898" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="still2.jpg" crc="76293941" seo="true" ref="von">
+      <caption webpage="von" alt=""/>
     </file>
-    <file name="u6998-9.png" crc="4234539804" ref="index"/>
-    <file name="u7025-9.png" crc="4094230795" ref="index"/>
-    <file name="u7015-9.png" crc="3832381793" ref="index"/>
-    <file name="intento de resistencia 9 still 2-crop-u6849.jpg" crc="226642818" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hiperespacio-crop-u6843.jpg" crc="86394386" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="recorder-crop-u6845.jpg" crc="363386187" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u6858-9.png" crc="138892686" ref="index"/>
-    <file name="u6840-9.png" crc="4153497194" ref="index"/>
-    <file name="u6854-9.png" crc="220101635" ref="index"/>
-    <file name="u6936-4.png" crc="4104727955" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6939-4.png" crc="3809865973" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u6942-4.png" crc="413796211" ref="index:intento-no.5:observación-i:bio:von:diluton:maad:drifting:pi:shifting-g22:c3:drop:prot-floto:attempt-no.9:hiperespacio:recorder:installation:vrar:film:ppoints"/>
-    <file name="u8037-4.png" crc="436380558" ref="intento-no.5"/>
-    <file name="u8036-11.png" crc="410962051" ref="intento-no.5"/>
-    <file name="u8013-4.png" crc="135402515" ref="observación-i"/>
-    <file name="u8012-15.png" crc="430118209" ref="observación-i"/>
-    <file name="u7896-4.png" crc="4134856018" ref="bio"/>
-    <file name="dsc06409-crop-u7907.jpg" crc="479093560" seo="true" ref="bio">
-      <caption webpage="bio" alt=""/>
-    </file>
-    <file name="u7897-8.png" crc="3774454676" ref="bio"/>
-    <file name="u7932-4.png" crc="180871271" ref="bio"/>
-    <file name="u7941-14.png" crc="4077613801" ref="bio"/>
-    <file name="u7938-12.png" crc="206997840" ref="bio"/>
-    <file name="u7923-4.png" crc="312946636" ref="bio"/>
-    <file name="u7929-47.png" crc="4196478090" ref="bio"/>
-    <file name="u7926-34.png" crc="4137189440" ref="bio"/>
-    <file name="u4272-4.png" crc="4018258619" ref="von"/>
-    <file name="u7217-14.png" crc="61352645" ref="von"/>
-    <file name="u7474-4.png" crc="3953428578" ref="diluton"/>
-    <file name="u7475-15.png" crc="4154233103" ref="diluton"/>
-    <file name="dilution.jpg" crc="486132766" seo="true" ref="diluton">
-      <caption webpage="diluton" alt=""/>
-    </file>
-    <file name="pasted image 3840x1210-crop-u7472.jpg" crc="4109967864" seo="true" ref="diluton">
-      <caption webpage="diluton" alt=""/>
-    </file>
-    <file name="dilution (1).jpg" crc="423186255" seo="true" ref="diluton">
-      <caption webpage="diluton" alt=""/>
-    </file>
-    <file name="pasted image 3840x1210-crop-u7478.jpg" crc="80003464" seo="true" ref="diluton">
-      <caption webpage="diluton" alt=""/>
-    </file>
-    <file name="u7308-4.png" crc="4033411298" ref="maad"/>
-    <file name="u7310-13.png" crc="524024959" ref="maad"/>
-    <file name="maad_landlordleeestaritama_still4.jpg" crc="3852847612" seo="true" ref="maad">
+    <file name="u252-4.png" crc="90328154" ref="von"/>
+    <file name="maad_landlordleeestaritama_still4.jpg" crc="434177567" seo="true" ref="maad">
       <caption webpage="maad" alt=""/>
     </file>
-    <file name="maad_landlordleeestaritama_still3.jpg" crc="4136874" seo="true" ref="maad">
+    <file name="maad_landlordleeestaritama_still3.jpg" crc="4216527387" seo="true" ref="maad">
       <caption webpage="maad" alt=""/>
     </file>
-    <file name="maad_landlordestaritaleema_screener.jpg" crc="4210987719" seo="true" ref="maad">
+    <file name="maad_landlordestaritaleema_screener.jpg" crc="103848550" seo="true" ref="maad">
       <caption webpage="maad" alt=""/>
     </file>
-    <file name="maad_i_topplanet-c_v01_ace.jpg" crc="4275431919" seo="true" ref="maad">
-      <caption webpage="maad" alt=""/>
+    <file name="u345-4.png" crc="4090783319" ref="maad"/>
+    <file name="u398-4.png" crc="3994966739" ref="gg"/>
+    <file name="screen-shot-2018-05-24-at-10-24-43-pm_orig.jpg" crc="383162538" seo="true" ref="gg">
+      <caption webpage="gg" alt=""/>
     </file>
-    <file name="u8000-4.png" crc="470909874" ref="drifting"/>
-    <file name="u8001-15.png" crc="267701779" ref="drifting"/>
-    <file name="u8084-4.png" crc="4078395568" ref="pi"/>
-    <file name="u8085-18.png" crc="2504817" ref="pi"/>
-    <file name="u7602-4.png" crc="3811503016" ref="shifting-g22"/>
-    <file name="u7605-23.png" crc="3863229519" ref="shifting-g22"/>
-    <file name="img_0074.jpg" crc="487238677" seo="true" ref="shifting-g22">
-      <caption webpage="shifting-g22" alt=""/>
+    <file name="screen-shot-2018-05-24-at-103305-pm_670.jpg" crc="364373192" seo="true" ref="gg">
+      <caption webpage="gg" alt=""/>
     </file>
-    <file name="img_9924.jpg" crc="12526265" seo="true" ref="shifting-g22">
-      <caption webpage="shifting-g22" alt=""/>
+    <file name="biz_orig.gif" crc="3843070053" seo="true" ref="gg">
+      <caption webpage="gg" alt=""/>
     </file>
-    <file name="u7969-4.png" crc="470909874" ref="c3"/>
-    <file name="u7970-5.png" crc="495053587" ref="c3"/>
-    <file name="u7260-4.png" crc="4248663393" ref="drop"/>
-    <file name="u7261-10.png" crc="327079066" ref="drop"/>
-    <file name="u7372-4.png" crc="71464835" ref="prot-floto"/>
-    <file name="u7373-30.png" crc="165815103" ref="prot-floto"/>
-    <file name="protoflotogalaxyselfie.jpg" crc="4053867251" seo="true" ref="prot-floto">
-      <caption webpage="prot-floto" alt=""/>
+    <file name="01.jpg" crc="4068989429" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="protofloatoinstagram.jpg" crc="69195861" seo="true" ref="prot-floto">
-      <caption webpage="prot-floto" alt=""/>
+    <file name="05.jpg" crc="81726165" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="alleypretty.jpg" crc="4265064487" seo="true" ref="prot-floto">
-      <caption webpage="prot-floto" alt=""/>
+    <file name="03.jpg" crc="4143994586" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="protofloto103.jpg" crc="3957431060" seo="true" ref="prot-floto">
-      <caption webpage="prot-floto" alt=""/>
+    <file name="04.jpg" crc="4175134758" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="u7729-4.png" crc="4240873165" ref="attempt-no.9"/>
-    <file name="u7737-8.png" crc="477150909" ref="attempt-no.9"/>
-    <file name="intento de resistencia 9 still 2.jpg" crc="3766517672" seo="true" ref="attempt-no.9">
-      <caption webpage="attempt-no.9" alt=""/>
+    <file name="02.jpg" crc="208824884" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="intento de resistencia 9 still 6.jpg" crc="144074795" seo="true" ref="attempt-no.9">
-      <caption webpage="attempt-no.9" alt=""/>
+    <file name="06.jpg" crc="30886246" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="intento de resistencia 9 still 3.jpg" crc="3844405475" seo="true" ref="attempt-no.9">
-      <caption webpage="attempt-no.9" alt=""/>
+    <file name="07.jpg" crc="385050840" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="u7834-4.png" crc="3815550806" ref="hiperespacio"/>
-    <file name="u7833-14.png" crc="4249921174" ref="hiperespacio"/>
-    <file name="u8133-4.png" crc="3866488330" ref="recorder"/>
-    <file name="u8132-9.png" crc="302775570" ref="recorder"/>
-    <file name="maad_landlordleeestaritama_still5-crop-u8225.jpg" crc="3798302183" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="08.jpg" crc="3846319379" seo="true" ref="gettyunshuttered">
+      <caption webpage="gettyunshuttered" alt=""/>
     </file>
-    <file name="still1-crop-u8241.jpg" crc="112069731" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="u453-4.png" crc="3901739393" ref="gettyunshuttered"/>
+    <file name="u456-119.png" crc="369321034" ref="gettyunshuttered"/>
+    <file name="pressurepointsstill1.jpg" crc="76740737" seo="true" ref="pressure-points">
+      <caption webpage="pressure-points" alt=""/>
     </file>
-    <file name="protoflotogalaxyselfie-crop-u8221.jpg" crc="4234369275" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="pressurepointsstill3.jpg" crc="3838633893" seo="true" ref="pressure-points">
+      <caption webpage="pressure-points" alt=""/>
     </file>
-    <file name="u8220-9.png" crc="4250606390" ref="installation"/>
-    <file name="u8232-9.png" crc="3922646842" ref="installation"/>
-    <file name="u8211-9.png" crc="4193373857" ref="installation"/>
-    <file name="dilution-crop-u8247.jpg" crc="347376521" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="pressurepointsstill4.jpg" crc="4074570868" seo="true" ref="pressure-points">
+      <caption webpage="pressure-points" alt=""/>
     </file>
-    <file name="shifting2-crop-u8529.jpg" crc="4195263051" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="u555-4.png" crc="4285621188" ref="pressure-points"/>
+    <file name="r-v_01.jpg" crc="3891393801" seo="true" ref="shifting">
+      <caption webpage="shifting" alt=""/>
     </file>
-    <file name="intento de resistencia 9 still 2-crop-u8239.jpg" crc="226642818" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="083c11_21ecd64c87f2458a8d5b840c4a8e61f5~mv2_d_2243_1259_s_2.jpg" crc="186146411" seo="true" ref="shifting">
+      <caption webpage="shifting" alt=""/>
     </file>
-    <file name="u8243-9.png" crc="182441981" ref="installation"/>
-    <file name="u8531-9.png" crc="181792963" ref="installation"/>
-    <file name="u8210-9.png" crc="138892686" ref="installation"/>
-    <file name="hiperespacio-crop-u8217.jpg" crc="86394386" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="img_9957.jpg" crc="4225836596" seo="true" ref="shifting">
+      <caption webpage="shifting" alt=""/>
     </file>
-    <file name="recorder-crop-u8237.jpg" crc="363386187" seo="true" ref="installation">
-      <caption webpage="installation" alt=""/>
+    <file name="img_0167.jpg" crc="3852158540" seo="true" ref="shifting">
+      <caption webpage="shifting" alt=""/>
     </file>
-    <file name="u8234-9.png" crc="4153497194" ref="installation"/>
-    <file name="u8212-9.png" crc="220101635" ref="installation"/>
-    <file name="maad_landlordleeestaritama_still5-crop-u8356.jpg" crc="3798302183" seo="true" ref="vrar">
-      <caption webpage="vrar" alt=""/>
+    <file name="u785-4.png" crc="4091415148" ref="shifting"/>
+    <file name="alleypretty.jpg" crc="4179632260" seo="true" ref="proto-floto">
+      <caption webpage="proto-floto" alt=""/>
     </file>
-    <file name="still1-crop-u8372.jpg" crc="112069731" seo="true" ref="vrar">
-      <caption webpage="vrar" alt=""/>
+    <file name="protofloto61.jpg" crc="503588583" seo="true" ref="proto-floto">
+      <caption webpage="proto-floto" alt=""/>
     </file>
-    <file name="drop-crop-u8366.jpg" crc="3938165122" seo="true" ref="vrar">
-      <caption webpage="vrar" alt=""/>
+    <file name="protoflotogalaxyselfie.jpg" crc="3970691443" seo="true" ref="proto-floto">
+      <caption webpage="proto-floto" alt=""/>
     </file>
-    <file name="u8351-9.png" crc="4250606390" ref="vrar"/>
-    <file name="u8363-9.png" crc="3922646842" ref="vrar"/>
-    <file name="u8350-9.png" crc="504995381" ref="vrar"/>
-    <file name="gscnstill-crop-u8507.jpg" crc="4090044491" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
+    <file name="protofloto103.jpg" crc="334888769" seo="true" ref="proto-floto">
+      <caption webpage="proto-floto" alt=""/>
     </file>
-    <file name="drifting-crop-u8492.jpg" crc="125829467" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
+    <file name="protofloatoinstagram.jpg" crc="124832796" seo="true" ref="proto-floto">
+      <caption webpage="proto-floto" alt=""/>
     </file>
-    <file name="pi-crop-u8476.jpg" crc="4198583956" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
+    <file name="u717-4.png" crc="4258656283" ref="proto-floto"/>
+    <file name="sequence 0200_02_31_22still002.jpg" crc="3950029642" seo="true" ref="getty-underworld">
+      <caption webpage="getty-underworld" alt=""/>
     </file>
-    <file name="u8478-9.png" crc="451036812" ref="film"/>
-    <file name="u8475-9.png" crc="94223666" ref="film"/>
-    <file name="u8491-9.png" crc="4234539804" ref="film"/>
-    <file name="observation i still 2-crop-u8485.jpg" crc="3937675898" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
+    <file name="20190128_211511-u684.png" crc="181001810" ref="getty-underworld"/>
+    <file name="20190128_204723-crop-u704.jpg" crc="4137914950" seo="true" ref="getty-underworld">
+      <caption webpage="getty-underworld" alt=""/>
     </file>
-    <file name="p1120103_0002_background-crop-u8470.jpg" crc="4055817898" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
-    </file>
-    <file name="shifting2-crop-u8489.jpg" crc="4195263051" seo="true" ref="film">
-      <caption webpage="film" alt=""/>
-    </file>
-    <file name="u8506-9.png" crc="4094230795" ref="film"/>
-    <file name="u8469-9.png" crc="3832381793" ref="film"/>
-    <file name="u8495-9.png" crc="181792963" ref="film"/>
-    <file name="u8607-4.png" crc="3926640686" ref="ppoints"/>
-    <file name="u8600-7.png" crc="41680069" ref="ppoints"/>
-    <file name="pressurepointsstill1.jpg" crc="349828040" seo="true" ref="ppoints">
-      <caption webpage="ppoints" alt=""/>
-    </file>
-    <file name="pressurepointsstill3.jpg" crc="529889328" seo="true" ref="ppoints">
-      <caption webpage="ppoints" alt=""/>
-    </file>
-    <file name="pressurepointsstill4.jpg" crc="3902031486" seo="true" ref="ppoints">
-      <caption webpage="ppoints" alt=""/>
+    <file name="u672-4.png" crc="473762698" ref="getty-underworld"/>
+    <file name="u681-89.png" crc="3955286565" ref="getty-underworld"/>
+    <file name="u1227-4.png" crc="4144425600" ref="reel"/>
+    <file name="profile-crop-u1341.jpg" crc="4025467845" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="l_neas.css" crc="315114820" ref="tablet>líneas"/>
-      <file name="c-de-improbable.css" crc="315114820" ref="tablet>c-de-improbable"/>
-      <file name="intento-no_9.css" crc="315114820" ref="tablet>intento-no.9"/>
-      <file name="intento-no_6.css" crc="315114820" ref="tablet>intento-no.6"/>
-      <file name="momentum.css" crc="315114820" ref="tablet>momentum"/>
-      <file name="intentos-de-resistencia.css" crc="315114820" ref="tablet>intentos-de-resistencia"/>
-      <file name="untitled-11.css" crc="315114820" ref="tablet>untitled-11"/>
-      <file name="observaci_n-i.css" crc="315114820" ref="tablet>observación-i"/>
-      <file name="index.css" crc="315114820" ref="tablet>index"/>
-      <file name="bio.css" crc="315114820" ref="tablet>bio"/>
-      <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.css" crc="315114820" ref="tablet>compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas"/>
-    </folder>
-    <file name="index.html" crc="28097980" seo="true" mt="1402529964138" redirect="false"/>
-    <file name="observación-i.html" crc="485289859" seo="true" mt="1402529964187" redirect="false"/>
-    <file name="momentum.html" crc="186093775" seo="true" mt="1516159446843" redirect="false"/>
-    <file name="intentos-de-resistencia.html" crc="4123875673" seo="true" mt="1516162984327" redirect="false"/>
-    <file name="intento-no.6.html" crc="4211517125" seo="true" mt="1516162186956" redirect="false"/>
-    <file name="intento-no.9.html" crc="3785087138" seo="true" mt="1516165086579" redirect="false"/>
-    <file name="c-de-improbable.html" crc="27927625" seo="true" mt="1516165081271" redirect="false"/>
-    <file name="compendio-de-intentos-fallidos-de-resistencia-a-la-impermanencia-de-las-cosas.html" crc="368116953" seo="true" mt="1516165083369" redirect="false"/>
-    <file name="líneas.html" crc="172457450" seo="true" mt="1516159451901" redirect="false"/>
-    <file name="bio.html" crc="113043976" seo="true" mt="1402529964800" redirect="false"/>
-    <file name="untitled-11.html" crc="432280943" seo="true" mt="1516423618193" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="4046753158" seo="true" mt="1528931632974" redirect="true"/>
-  <file name="intento-no.5.html" crc="414044865" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="observación-i.html" crc="231388763" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="bio.html" crc="324154302" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="von.html" crc="3997554588" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="diluton.html" crc="4274881138" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="maad.html" crc="405211167" seo="true" mt="1518632806993" redirect="true"/>
-  <file name="drifting.html" crc="4211014947" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="pi.html" crc="264621402" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="shifting-g22.html" crc="4285593687" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="c3.html" crc="365982877" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="drop.html" crc="263839536" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="prot-floto.html" crc="4081747546" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="attempt-no.9.html" crc="3802757703" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="hiperespacio.html" crc="94630047" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="recorder.html" crc="134932728" seo="true" mt="1518586576393" redirect="true"/>
-  <file name="installation.html" crc="4180120674" seo="true" mt="1518632691015" redirect="true"/>
-  <file name="vrar.html" crc="385131489" seo="true" mt="1518632646531" redirect="true"/>
-  <file name="film.html" crc="3806898950" seo="true" mt="1518632624314" redirect="true"/>
-  <file name="ppoints.html" crc="529556671" seo="true" mt="1528931812631" redirect="true"/>
+  <file name="index.html" crc="216875780" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="von.html" crc="4105588565" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="maad.html" crc="112813185" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="gg.html" crc="328963600" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="gettyunshuttered.html" crc="3801035031" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="pressure-points.html" crc="57380182" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="shifting.html" crc="4022525391" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="proto-floto.html" crc="146459348" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="getty-underworld.html" crc="507830696" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="reel.html" crc="71657882" seo="true" mt="1553726246091" redirect="true"/>
+  <file name="about.html" crc="3853996345" seo="true" mt="1553726246091" redirect="true"/>
 </manifest>
