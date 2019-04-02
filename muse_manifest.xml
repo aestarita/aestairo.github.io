@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1554229793055">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1554230379264">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_frontmaster.css" crc="3805792594" ref="index"/>
@@ -10,7 +10,7 @@
     <file name="iefonts_gg.css" crc="285337629" ref="gg"/>
     <file name="pressure-points.css" crc="4180647840" ref="pressure-points"/>
     <file name="iefonts_pressure-points.css" crc="251251288" ref="pressure-points"/>
-    <file name="index.css" crc="135751828" ref="index"/>
+    <file name="index.css" crc="3796147113" ref="index"/>
     <file name="iefonts_index.css" crc="4146545116" ref="index"/>
     <file name="about.css" crc="4261370219" ref="about"/>
     <file name="iefonts_about.css" crc="207408669" ref="about"/>
@@ -57,7 +57,7 @@
     <file name="05-crop-u1115.jpg" crc="159902394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pressurepointsstill3-crop-u1160.jpg" crc="89866020" seo="true" ref="index">
+    <file name="pressurepointsstill3-crop-u1160.jpg" crc="35027491" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="shifting4kmp400_00_06_16still001-crop-u1122.jpg" crc="116119329" seo="true" ref="index">
@@ -172,7 +172,7 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="186776888" seo="true" mt="1554229757789" redirect="true"/>
+  <file name="index.html" crc="3866802183" seo="true" mt="1554230364837" redirect="true"/>
   <file name="von.html" crc="212633742" seo="true" mt="1554228694882" redirect="true"/>
   <file name="maad.html" crc="417683084" seo="true" mt="1554228694882" redirect="true"/>
   <file name="gg.html" crc="243748359" seo="true" mt="1554228694882" redirect="true"/>
