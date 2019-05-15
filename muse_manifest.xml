@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1554230379264">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1557880521686">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_frontmaster.css" crc="3805792594" ref="index"/>
-    <file name="master_about.css" crc="467976768" ref="about"/>
-    <file name="master_a-master.css" crc="3998667675" ref="von:gg:pressure-points:index:about:gettyunshuttered:shifting:maad:reel:proto-floto:getty-underworld"/>
+    <file name="master_frontmaster.css" crc="345343435" ref="index"/>
+    <file name="master_about.css" crc="3839027810" ref="about"/>
+    <file name="master_a-master.css" crc="188880649" ref="von:gg:pressure-points:index:about:gettyunshuttered:shifting:maad:reel:proto-floto:getty-underworld:coc:motion-reel"/>
     <file name="von.css" crc="491107706" ref="von"/>
     <file name="iefonts_von.css" crc="9296325" ref="von"/>
     <file name="gg.css" crc="3831303466" ref="gg"/>
     <file name="iefonts_gg.css" crc="285337629" ref="gg"/>
     <file name="pressure-points.css" crc="4180647840" ref="pressure-points"/>
     <file name="iefonts_pressure-points.css" crc="251251288" ref="pressure-points"/>
-    <file name="index.css" crc="3796147113" ref="index"/>
-    <file name="iefonts_index.css" crc="4146545116" ref="index"/>
-    <file name="about.css" crc="4261370219" ref="about"/>
-    <file name="iefonts_about.css" crc="207408669" ref="about"/>
+    <file name="index.css" crc="3786862497" ref="index"/>
+    <file name="iefonts_index.css" crc="4013016120" ref="index"/>
+    <file name="about.css" crc="224629598" ref="about"/>
+    <file name="iefonts_about.css" crc="329519411" ref="about"/>
     <file name="gettyunshuttered.css" crc="4254540030" ref="gettyunshuttered"/>
     <file name="iefonts_gettyunshuttered.css" crc="4114175192" ref="gettyunshuttered"/>
     <file name="shifting.css" crc="3942826104" ref="shifting"/>
@@ -26,14 +26,18 @@
     <file name="iefonts_proto-floto.css" crc="3900588409" ref="proto-floto"/>
     <file name="getty-underworld.css" crc="397414326" ref="getty-underworld"/>
     <file name="iefonts_getty-underworld.css" crc="4114175192" ref="getty-underworld"/>
+    <file name="coc.css" crc="348101295" ref="coc"/>
+    <file name="iefonts_coc.css" crc="369972139" ref="coc"/>
+    <file name="motion-reel.css" crc="4037625004" ref="motion-reel"/>
+    <file name="iefonts_motion-reel.css" crc="497615735" ref="motion-reel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
-    <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
-    <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
+    <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
+    <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
+    <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:reel:about:coc:motion-reel"/>
   </folder>
   <folder name="images">
     <file name="mediareelfront-crop-u1189.jpg" crc="353463500" seo="true" ref="index">
@@ -171,8 +175,23 @@
     <file name="profile-crop-u1341.jpg" crc="4025467845" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="sequence 0200_00_32_19still003-crop-u1468.jpg" crc="3763027103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edit300_01_17_21still001-crop-u1485.jpg" crc="4030900714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reflectionpointsla-63.jpg" crc="154268543" seo="true" ref="coc">
+      <caption webpage="coc" alt=""/>
+    </file>
+    <file name="20190502_203558.jpg" crc="291991821" seo="true" ref="coc">
+      <caption webpage="coc" alt=""/>
+    </file>
+    <file name="20190503_210528-u1458.png" crc="91365314" ref="coc"/>
+    <file name="u1410-4.png" crc="352465515" ref="coc"/>
+    <file name="u1515-4.png" crc="4000831650" ref="motion-reel"/>
   </folder>
-  <file name="index.html" crc="3866802183" seo="true" mt="1554230364837" redirect="true"/>
+  <file name="index.html" crc="3945604398" seo="true" mt="1557880134096" redirect="true"/>
   <file name="von.html" crc="212633742" seo="true" mt="1554228694882" redirect="true"/>
   <file name="maad.html" crc="417683084" seo="true" mt="1554228694882" redirect="true"/>
   <file name="gg.html" crc="243748359" seo="true" mt="1554228694882" redirect="true"/>
@@ -182,5 +201,7 @@
   <file name="proto-floto.html" crc="4111937336" seo="true" mt="1554228694882" redirect="true"/>
   <file name="getty-underworld.html" crc="515263541" seo="true" mt="1554228694882" redirect="true"/>
   <file name="reel.html" crc="4230137322" seo="true" mt="1554228694882" redirect="true"/>
-  <file name="about.html" crc="4137271410" seo="true" mt="1554228694882" redirect="true"/>
+  <file name="about.html" crc="4133939775" seo="true" mt="1557880369746" redirect="true"/>
+  <file name="coc.html" crc="37727440" seo="true" mt="1557877015584" redirect="true"/>
+  <file name="motion-reel.html" crc="3870650639" seo="true" mt="1557880028091" redirect="true"/>
 </manifest>

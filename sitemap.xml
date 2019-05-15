@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,6 +31,12 @@
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/shifting4kmp400_00_06_16still001-crop-u1122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/sequence%200200_00_32_19still003-crop-u1468.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/edit300_01_17_21still001-crop-u1485.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -182,11 +188,29 @@
   </url>
   <url>
     <loc>http://aestarita.com/about.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://aestarita.com/images/profile-crop-u1341.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/coc.html</loc>
+    <lastmod>2019-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/reflectionpointsla-63.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/20190502_203558.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/motion-reel.html</loc>
+    <lastmod>2019-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
