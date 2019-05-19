@@ -2,46 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2019-05-14</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/mediareelfront-crop-u1189.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/bannerreels-crop-u1698.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/screen-shot-2018-05-24-at-103305-pm_670-crop-u1117.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/bannerreels-crop-u1754.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/still1-crop-u1121.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/bannerreels-crop-u1761.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/edit300_01_17_21still001-crop-u1485.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/sequence%200200_02_31_22still002-crop-u1113.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/adamshome-crop-u1119.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/protofloatoinstagram-crop-u1157.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://aestarita.com/images/05-crop-u1115.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/screen-shot-2018-05-24-at-103305-pm_670-crop-u1117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/adamshome-crop-u1119.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/pressurepointsstill3-crop-u1160.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://aestarita.com/images/still1-crop-u1121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protofloatoinstagram-crop-u1157.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://aestarita.com/images/shifting4kmp400_00_06_16still001-crop-u1122.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/sequence%200200_00_32_19still003-crop-u1468.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/edit300_01_17_21still001-crop-u1485.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/von.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +59,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/maad.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,12 +69,12 @@
       <image:loc>http://aestarita.com/images/maad_landlordleeestaritama_still3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/maad_landlordestaritaleema_screener.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/adamshome.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/gg.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,7 +89,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gettyunshuttered.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -116,7 +119,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/pressure-points.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +134,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/shifting.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,7 +152,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/proto-floto.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -170,7 +173,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/getty-underworld.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,14 +184,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aestarita.com/reel.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <loc>http://aestarita.com/immersive-media-reel.html</loc>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/about.html</loc>
-    <lastmod>2019-05-14</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -197,7 +200,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/coc.html</loc>
-    <lastmod>2019-05-14</lastmod>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -209,7 +212,46 @@
   </url>
   <url>
     <loc>http://aestarita.com/motion-reel.html</loc>
-    <lastmod>2019-05-14</lastmod>
+    <lastmod>2019-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/portfolio.html</loc>
+    <lastmod>2019-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/edit300_01_17_21still001-crop-u1577.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/sequence%200200_02_31_22still002-crop-u1555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/05-crop-u1563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/screen-shot-2018-05-24-at-103305-pm_670-crop-u1549.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/adamshome-crop-u1569.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/pressurepointsstill3-crop-u1553.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/still1-crop-u1551.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/protofloatoinstagram-crop-u1567.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/shifting4kmp400_00_06_16still001-crop-u1573.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/compositing-reel.html</loc>
+    <lastmod>2019-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
