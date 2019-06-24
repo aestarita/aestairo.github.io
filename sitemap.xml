@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/bannerreels-crop-u1698.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/bannerreels-crop-u1754.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/bannerreels-crop-u1761.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://aestarita.com/images/edit300_01_17_21still001-crop-u1485.jpg</image:loc>
     </image:image>
@@ -44,7 +35,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/von.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,7 +50,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/maad.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,7 +65,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gg.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,7 +80,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gettyunshuttered.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -119,7 +110,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/pressure-points.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +125,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/shifting.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -152,7 +143,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/proto-floto.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,7 +164,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/getty-underworld.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,13 +176,13 @@
   </url>
   <url>
     <loc>http://aestarita.com/immersive-media-reel.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/about.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -199,26 +190,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aestarita.com/coc.html</loc>
-    <lastmod>2019-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/reflectionpointsla-63.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/20190502_203558.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aestarita.com/motion-reel.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/portfolio.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -251,8 +230,56 @@
   </url>
   <url>
     <loc>http://aestarita.com/compositing-reel.html</loc>
-    <lastmod>2019-05-18</lastmod>
+    <lastmod>2019-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/coc.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/sideview-crop-u2428.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/topview-crop-u2441.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/documentacion0325-crop-u1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/techryderfinal.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/techrayder0223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/stage2-crop-u2500.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/structure-crop-u2510.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/artboard%201-100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/theatrical07368.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/theatrical00138.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/theatrical04308.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/theatrical08703.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/documentacion0978-crop-u2193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aestarita.com/images/documentacion0488-crop-u2200.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
