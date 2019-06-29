@@ -1,76 +1,97 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1561345798420">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1561766529225">
   <folder name="css">
     <file name="site_global.css" crc="248753284"/>
-    <file name="master_frontmaster.css" crc="173948577" ref="index"/>
-    <file name="master_a-master.css" crc="140989414" ref="about:coc:gg:immersive-media-reel:pressure-points:index:proto-floto:compositing-reel:von:shifting:portfolio:maad:getty-underworld:motion-reel:gettyunshuttered"/>
-    <file name="master_about.css" crc="3823246084" ref="about"/>
+    <file name="master_about.css" crc="91303766" ref="about"/>
     <file name="master_portfolio.css" crc="4093582262" ref="portfolio"/>
+    <file name="master_a-master.css" crc="497256300" ref="index:maad:about:gg:portfolio:shifting:compositing-reel:proto-floto:gettyunshuttered:motion-reel:coc:getty-underworld:pressure-points:von:immersive-media-reel"/>
+    <file name="master_frontmaster2colums.css" crc="4155016094" ref="index"/>
+    <file name="index.css" crc="3992045642" ref="index"/>
+    <file name="iefonts_index.css" crc="4261810922" ref="index"/>
+    <file name="maad.css" crc="3793917880" ref="maad"/>
+    <file name="iefonts_maad.css" crc="4125595597" ref="maad"/>
     <file name="about.css" crc="62553752" ref="about"/>
     <file name="iefonts_about.css" crc="181839737" ref="about"/>
-    <file name="coc.css" crc="3766116761" ref="coc"/>
-    <file name="iefonts_coc.css" crc="3980944190" ref="coc"/>
     <file name="gg.css" crc="4098190929" ref="gg"/>
     <file name="iefonts_gg.css" crc="4172951735" ref="gg"/>
-    <file name="immersive-media-reel.css" crc="344062003" ref="immersive-media-reel"/>
-    <file name="iefonts_immersive-media-reel.css" crc="140779771" ref="immersive-media-reel"/>
-    <file name="pressure-points.css" crc="4177468153" ref="pressure-points"/>
-    <file name="iefonts_pressure-points.css" crc="333242729" ref="pressure-points"/>
-    <file name="index.css" crc="303416266" ref="index"/>
-    <file name="iefonts_index.css" crc="4163290040" ref="index"/>
-    <file name="proto-floto.css" crc="3771169635" ref="proto-floto"/>
-    <file name="iefonts_proto-floto.css" crc="3887948904" ref="proto-floto"/>
-    <file name="compositing-reel.css" crc="87264989" ref="compositing-reel"/>
-    <file name="iefonts_compositing-reel.css" crc="4183863941" ref="compositing-reel"/>
-    <file name="von.css" crc="4137312020" ref="von"/>
-    <file name="iefonts_von.css" crc="256834772" ref="von"/>
-    <file name="shifting.css" crc="3917165197" ref="shifting"/>
-    <file name="iefonts_shifting.css" crc="361486091" ref="shifting"/>
     <file name="portfolio.css" crc="413343770" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="26017253" ref="portfolio"/>
-    <file name="maad.css" crc="13130158" ref="maad"/>
-    <file name="iefonts_maad.css" crc="4125595597" ref="maad"/>
-    <file name="getty-underworld.css" crc="4283494705" ref="getty-underworld"/>
-    <file name="iefonts_getty-underworld.css" crc="4261810922" ref="getty-underworld"/>
-    <file name="motion-reel.css" crc="141177953" ref="motion-reel"/>
-    <file name="iefonts_motion-reel.css" crc="4037451527" ref="motion-reel"/>
+    <file name="shifting.css" crc="3917165197" ref="shifting"/>
+    <file name="iefonts_shifting.css" crc="361486091" ref="shifting"/>
+    <file name="compositing-reel.css" crc="87264989" ref="compositing-reel"/>
+    <file name="iefonts_compositing-reel.css" crc="4183863941" ref="compositing-reel"/>
+    <file name="proto-floto.css" crc="469536499" ref="proto-floto"/>
+    <file name="iefonts_proto-floto.css" crc="3887948904" ref="proto-floto"/>
     <file name="gettyunshuttered.css" crc="4016912169" ref="gettyunshuttered"/>
     <file name="iefonts_gettyunshuttered.css" crc="4261810922" ref="gettyunshuttered"/>
+    <file name="motion-reel.css" crc="141177953" ref="motion-reel"/>
+    <file name="iefonts_motion-reel.css" crc="4037451527" ref="motion-reel"/>
+    <file name="coc.css" crc="4080201304" ref="coc"/>
+    <file name="iefonts_coc.css" crc="3980944190" ref="coc"/>
+    <file name="getty-underworld.css" crc="4283494705" ref="getty-underworld"/>
+    <file name="iefonts_getty-underworld.css" crc="4261810922" ref="getty-underworld"/>
+    <file name="pressure-points.css" crc="4177468153" ref="pressure-points"/>
+    <file name="iefonts_pressure-points.css" crc="333242729" ref="pressure-points"/>
+    <file name="von.css" crc="3850338155" ref="von"/>
+    <file name="iefonts_von.css" crc="256834772" ref="von"/>
+    <file name="immersive-media-reel.css" crc="344062003" ref="immersive-media-reel"/>
+    <file name="iefonts_immersive-media-reel.css" crc="140779771" ref="immersive-media-reel"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
     <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
     <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
     <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:coc"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
     <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="coc"/>
   </folder>
   <folder name="images">
-    <file name="edit300_01_17_21still001-crop-u1485.jpg" crc="371319592" seo="true" ref="index">
+    <file name="cocnormal.jpg" crc="229883544" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sequence 0200_02_31_22still002-crop-u1113.jpg" crc="482666398" seo="true" ref="index">
+    <file name="cocrollover.jpg" crc="393942386" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-crop-u1115.jpg" crc="463458104" seo="true" ref="index">
+    <file name="ggnormal.jpg" crc="487082987" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen-shot-2018-05-24-at-103305-pm_670-crop-u1117.jpg" crc="3968945353" seo="true" ref="index">
+    <file name="ggrollover.jpg" crc="4156192779" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="adamshome-crop-u1119.jpg" crc="3796360079" seo="true" ref="index">
+    <file name="maadnormal.jpg" crc="3813220955" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pressurepointsstill3-crop-u1160.jpg" crc="35027491" seo="true" ref="index">
+    <file name="maadrollover.jpg" crc="373222084" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="still1-crop-u1121.jpg" crc="101150848" seo="true" ref="index">
+    <file name="ppnormal.jpg" crc="4079386920" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="protofloatoinstagram-crop-u1157.jpg" crc="3854205669" seo="true" ref="index">
+    <file name="pprollover.jpg" crc="205885605" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="shifting4kmp400_00_06_16still001-crop-u1122.jpg" crc="116119329" seo="true" ref="index">
+    <file name="vonnormal.jpg" crc="274410175" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vonrolliover.jpg" crc="503791679" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proto-flotonormal.jpg" crc="4076420915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proto-flotorollover.jpg" crc="339852567" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiftingnormal.jpg" crc="4255452431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiftingrollover.jpg" crc="4229328820" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="still1.jpg" crc="361369299" seo="true" ref="von">
@@ -269,19 +290,19 @@
       <caption webpage="coc" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="464969050" seo="true" mt="1561345722503" redirect="true"/>
-  <file name="von.html" crc="311129737" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="maad.html" crc="3902880486" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="gg.html" crc="4086498370" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="gettyunshuttered.html" crc="42046845" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="pressure-points.html" crc="3905217294" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="shifting.html" crc="4161178219" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="proto-floto.html" crc="395189424" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="getty-underworld.html" crc="492448460" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="immersive-media-reel.html" crc="4203247684" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="about.html" crc="286687944" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="motion-reel.html" crc="3783423218" seo="true" mt="1560047455907" redirect="true"/>
-  <file name="portfolio.html" crc="272863947" seo="true" mt="1560049881218" redirect="true"/>
-  <file name="compositing-reel.html" crc="384265469" seo="true" mt="1560049873892" redirect="true"/>
-  <file name="coc.html" crc="434838257" seo="true" mt="1561345565062" redirect="true"/>
+  <file name="index.html" crc="3853297983" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="von.html" crc="4193193014" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="maad.html" crc="339581954" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="gg.html" crc="67870588" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="gettyunshuttered.html" crc="110098221" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="pressure-points.html" crc="229923114" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="shifting.html" crc="492047095" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="proto-floto.html" crc="3780101409" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="getty-underworld.html" crc="4052136781" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="immersive-media-reel.html" crc="291393719" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="about.html" crc="3800895528" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="motion-reel.html" crc="111439732" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="portfolio.html" crc="4062779750" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="compositing-reel.html" crc="395089866" seo="true" mt="1561766454632" redirect="true"/>
+  <file name="coc.html" crc="430815068" seo="true" mt="1561766454632" redirect="true"/>
 </manifest>
