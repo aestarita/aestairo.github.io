@@ -229,13 +229,25 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aestarita.com/coc-epk.html</loc>
-    <lastmod>2019-08-28</lastmod>
+    <loc>http://aestarita.com/gettyunshuttered-ii.html</loc>
+    <lastmod>2019-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://aestarita.com/images/techryderfinal.png</image:loc>
+      <image:loc>http://aestarita.com/images/04.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/reels.html</loc>
+    <lastmod>2019-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aestarita.com/coc-epk.html</loc>
+    <lastmod>2019-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://aestarita.com/images/techrayder0223.jpg</image:loc>
     </image:image>
@@ -255,40 +267,19 @@
       <image:loc>http://aestarita.com/images/theatrical08703.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/sideview-crop-u3351.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aestarita.com/images/topview-crop-u3374.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://aestarita.com/images/documentacion0325-crop-u3365.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/stage2-crop-u3348.png</image:loc>
+      <image:loc>http://aestarita.com/images/sideview-crop-u3372.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/structure-crop-u3370.png</image:loc>
+      <image:loc>http://aestarita.com/images/topview-crop-u3375.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/documentacion0978-crop-u3384.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/documentacion0978-crop-u3347.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aestarita.com/images/documentacion0488-crop-u3386.jpg</image:loc>
+      <image:loc>http://aestarita.com/images/documentacion0488-crop-u3352.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://aestarita.com/gettyunshuttered-ii.html</loc>
-    <lastmod>2019-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/04.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aestarita.com/reels.html</loc>
-    <lastmod>2019-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
