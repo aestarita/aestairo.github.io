@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/about.html</loc>
-    <lastmod>2019-10-11</lastmod>
+    <lastmod>2020-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -229,6 +229,21 @@
     </image:image>
   </url>
   <url>
+    <loc>http://aestarita.com/gettyunshuttered-ii.html</loc>
+    <lastmod>2019-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aestarita.com/images/04.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/reels.html</loc>
+    <lastmod>2019-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://aestarita.com/coc-epk.html</loc>
     <lastmod>2019-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,21 +275,6 @@
     <image:image>
       <image:loc>http://aestarita.com/images/documentacion0488-crop-u3352.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://aestarita.com/gettyunshuttered-ii.html</loc>
-    <lastmod>2019-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/04.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aestarita.com/reels.html</loc>
-    <lastmod>2019-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/coc-techspecs.html</loc>

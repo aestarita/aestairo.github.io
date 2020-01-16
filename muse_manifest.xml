@@ -1,60 +1,150 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1570849151873">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1579152475033">
   <folder name="css">
     <file name="site_global.css" crc="61973917"/>
-    <file name="master_a-master.css" crc="3763688488" ref="proto-floto:index:compositing-reel:gg:shifting:portfolio:maad:pressure-points:motion-reel:getty-underworld:about:von:immersive-media-reel:coc-epk:gettyunshuttered:coc:reels:gettyunshuttered-ii:coc-techspecs"/>
-    <file name="master_about.css" crc="3865716729" ref="about"/>
+    <file name="master_reelpage.css" crc="427134906" ref="reels"/>
+    <file name="master_a-master.css" crc="3763688488" ref="gg:gettyunshuttered:index:portfolio:immersive-media-reel:about:reels:gettyunshuttered-ii:shifting:coc:getty-underworld:maad:pressure-points:coc-epk:von:coc-techspecs:compositing-reel:proto-floto:motion-reel"/>
+    <file name="master_about.css" crc="4208181418" ref="about"/>
     <file name="master_portfolio.css" crc="156856134" ref="portfolio"/>
-    <file name="proto-floto.css" crc="126464036" ref="proto-floto"/>
-    <file name="iefonts_proto-floto.css" crc="348785466" ref="proto-floto"/>
-    <file name="index.css" crc="4286043462" ref="index"/>
-    <file name="iefonts_index.css" crc="3946988308" ref="index"/>
-    <file name="compositing-reel.css" crc="362417090" ref="compositing-reel"/>
-    <file name="iefonts_compositing-reel.css" crc="259716060" ref="compositing-reel"/>
+    <file name="master_frontmaster2colums.css" crc="92966186" ref="index"/>
     <file name="gg.css" crc="35449854" ref="gg"/>
     <file name="iefonts_gg.css" crc="3888950225" ref="gg"/>
-    <file name="shifting.css" crc="3880013589" ref="shifting"/>
-    <file name="iefonts_shifting.css" crc="3875321945" ref="shifting"/>
-    <file name="portfolio.css" crc="466844636" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="486512399" ref="portfolio"/>
-    <file name="maad.css" crc="3891648552" ref="maad"/>
-    <file name="iefonts_maad.css" crc="110164127" ref="maad"/>
-    <file name="pressure-points.css" crc="4093131731" ref="pressure-points"/>
-    <file name="iefonts_pressure-points.css" crc="224057601" ref="pressure-points"/>
-    <file name="motion-reel.css" crc="3809226145" ref="motion-reel"/>
-    <file name="iefonts_motion-reel.css" crc="3881282406" ref="motion-reel"/>
-    <file name="getty-underworld.css" crc="480490493" ref="getty-underworld"/>
-    <file name="iefonts_getty-underworld.css" crc="486512399" ref="getty-underworld"/>
-    <file name="about.css" crc="390507989" ref="about"/>
-    <file name="iefonts_about.css" crc="183132726" ref="about"/>
-    <file name="von.css" crc="484496480" ref="von"/>
-    <file name="iefonts_von.css" crc="4231631750" ref="von"/>
-    <file name="immersive-media-reel.css" crc="4094254469" ref="immersive-media-reel"/>
-    <file name="iefonts_immersive-media-reel.css" crc="4195118653" ref="immersive-media-reel"/>
-    <file name="coc-epk.css" crc="4054526288" ref="coc-epk"/>
-    <file name="iefonts_coc-epk.css" crc="390828272" ref="coc-epk"/>
     <file name="gettyunshuttered.css" crc="307928973" ref="gettyunshuttered"/>
     <file name="iefonts_gettyunshuttered.css" crc="486512399" ref="gettyunshuttered"/>
-    <file name="coc.css" crc="276967455" ref="coc"/>
-    <file name="iefonts_coc.css" crc="4079750344" ref="coc"/>
-    <file name="master_reelpage.css" crc="427134906" ref="reels"/>
-    <file name="master_frontmaster2colums.css" crc="92966186" ref="index"/>
+    <file name="index.css" crc="4286043462" ref="index"/>
+    <file name="iefonts_index.css" crc="3946988308" ref="index"/>
+    <file name="portfolio.css" crc="466844636" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="486512399" ref="portfolio"/>
+    <file name="immersive-media-reel.css" crc="4094254469" ref="immersive-media-reel"/>
+    <file name="iefonts_immersive-media-reel.css" crc="4195118653" ref="immersive-media-reel"/>
+    <file name="about.css" crc="3821722782" ref="about"/>
+    <file name="iefonts_about.css" crc="4227497776" ref="about"/>
     <file name="reels.css" crc="3978928631" ref="reels"/>
     <file name="iefonts_reels.css" crc="318856644" ref="reels"/>
     <file name="gettyunshuttered-ii.css" crc="3798360869" ref="gettyunshuttered-ii"/>
     <file name="iefonts_gettyunshuttered-ii.css" crc="486512399" ref="gettyunshuttered-ii"/>
+    <file name="shifting.css" crc="3880013589" ref="shifting"/>
+    <file name="iefonts_shifting.css" crc="3875321945" ref="shifting"/>
+    <file name="coc.css" crc="276967455" ref="coc"/>
+    <file name="iefonts_coc.css" crc="4079750344" ref="coc"/>
+    <file name="getty-underworld.css" crc="480490493" ref="getty-underworld"/>
+    <file name="iefonts_getty-underworld.css" crc="486512399" ref="getty-underworld"/>
+    <file name="maad.css" crc="3891648552" ref="maad"/>
+    <file name="iefonts_maad.css" crc="110164127" ref="maad"/>
+    <file name="pressure-points.css" crc="4093131731" ref="pressure-points"/>
+    <file name="iefonts_pressure-points.css" crc="224057601" ref="pressure-points"/>
+    <file name="coc-epk.css" crc="4054526288" ref="coc-epk"/>
+    <file name="iefonts_coc-epk.css" crc="390828272" ref="coc-epk"/>
+    <file name="von.css" crc="484496480" ref="von"/>
+    <file name="iefonts_von.css" crc="4231631750" ref="von"/>
     <file name="coc-techspecs.css" crc="506925635" ref="coc-techspecs"/>
     <file name="iefonts_coc-techspecs.css" crc="4207062984" ref="coc-techspecs"/>
+    <file name="compositing-reel.css" crc="362417090" ref="compositing-reel"/>
+    <file name="iefonts_compositing-reel.css" crc="259716060" ref="compositing-reel"/>
+    <file name="proto-floto.css" crc="126464036" ref="proto-floto"/>
+    <file name="iefonts_proto-floto.css" crc="348785466" ref="proto-floto"/>
+    <file name="motion-reel.css" crc="3809226145" ref="motion-reel"/>
+    <file name="iefonts_motion-reel.css" crc="3881282406" ref="motion-reel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:coc-epk:gettyunshuttered-ii:reels:coc-techspecs"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="coc:coc-epk:index:portfolio:gettyunshuttered-ii:coc-techspecs"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
+    <file name="museutils.js" crc="340535759" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:coc:gettyunshuttered-ii:coc-epk:coc-techspecs"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
+    <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:reels:coc-epk:coc-techspecs"/>
   </folder>
   <folder name="images">
+    <file name="title.png" crc="151893736" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cocnormal.jpg" crc="229883544" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cocrollover.jpg" crc="393942386" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ggnormal.jpg" crc="487082987" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ggrollover.jpg" crc="4156192779" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maadnormal.jpg" crc="3813220955" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maadrollover.jpg" crc="373222084" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ppnormal.jpg" crc="4079386920" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pprollover.jpg" crc="205885605" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="vonnormal.jpg" crc="274410175" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="vonrolliover.jpg" crc="503791679" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="proto-flotonormal.jpg" crc="4076420915" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="proto-flotorollover.jpg" crc="3778502375" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="shiftingnormal.jpg" crc="4255452431" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiftingrollover.jpg" crc="3918722814" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unshutterednormal.jpg" crc="3912568900" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unshutteredrollover.jpg" crc="527300576" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="underworldnormal.jpg" crc="55526052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="underworldrollover.jpg" crc="4132325579" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unshuttered2normal.jpg" crc="257792693" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unshuttered2rollover.jpg" crc="181559308" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="bannerreels-crop-u1698.jpg" crc="260942402" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -178,8 +268,8 @@
     <file name="u1858-4.png" crc="352465515" ref="coc"/>
     <file name="kisspng-computer-icons-vimeo-logo-5b45b0a93b08650752601915312938652418-u2549-fr.png" crc="163049091" ref="coc:coc-epk"/>
     <file name="reflectionpointsla-62.jpg" crc="4086761854" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="sideview-crop-u2428.jpg" crc="3829618462" seo="true" ref="coc">
       <caption webpage="coc" alt=""/>
@@ -191,7 +281,6 @@
       <caption webpage="coc" alt=""/>
     </file>
     <file name="techryderfinal.png" crc="300721162" seo="true" ref="coc">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
     </file>
     <file name="techrayder0223.jpg" crc="190044297" seo="true" ref="coc:coc-epk:coc-techspecs">
@@ -206,34 +295,32 @@
       <caption webpage="coc" alt=""/>
     </file>
     <file name="artboard 1-100.jpg" crc="4008259425" seo="true" ref="coc">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
     </file>
     <file name="theatrical07368.png" crc="225996188" seo="true" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="theatrical00138.png" crc="4222631969" seo="true" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="theatrical04308.png" crc="4164108424" seo="true" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="theatrical08703.png" crc="470923454" seo="true" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="reflectionpointsla-148-u2349-fr.jpg" crc="193926464" ref="coc:coc-epk"/>
     <file name="documentacion1184-u2363-fr.jpg" crc="478911898" ref="coc:coc-epk"/>
     <file name="nico2.jpg" crc="7365232" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
     </file>
     <file name="20190502_203558.jpg" crc="3871347118" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
+      <caption webpage="coc-epk" alt=""/>
     </file>
     <file name="documentacion0978-crop-u2193.jpg" crc="179091109" seo="true" ref="coc">
       <caption webpage="coc" alt=""/>
@@ -242,95 +329,7 @@
       <caption webpage="coc" alt=""/>
     </file>
     <file name="documentacion2451.jpg" crc="34639401" ref="coc:coc-epk">
-      <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc" alt=""/>
-    </file>
-    <file name="cocnormal.jpg" crc="229883544" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="cocrollover.jpg" crc="393942386" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="ggnormal.jpg" crc="487082987" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="ggrollover.jpg" crc="4156192779" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="maadnormal.jpg" crc="3813220955" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="maadrollover.jpg" crc="373222084" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="ppnormal.jpg" crc="4079386920" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="pprollover.jpg" crc="205885605" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="vonnormal.jpg" crc="274410175" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="vonrolliover.jpg" crc="503791679" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="proto-flotonormal.jpg" crc="4076420915" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="proto-flotorollover.jpg" crc="3778502375" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="shiftingnormal.jpg" crc="4255452431" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="shiftingrollover.jpg" crc="3918722814" ref="index:portfolio">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unshutterednormal.jpg" crc="3912568900" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unshutteredrollover.jpg" crc="527300576" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="underworldnormal.jpg" crc="55526052" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="underworldrollover.jpg" crc="4132325579" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unshuttered2normal.jpg" crc="257792693" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unshuttered2rollover.jpg" crc="181559308" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="unshutteredii2.jpg" crc="113189763" ref="gettyunshuttered-ii">
       <caption webpage="gettyunshuttered-ii" alt=""/>
@@ -352,10 +351,10 @@
     <file name="u3142-4.png" crc="4144425600" ref="reels"/>
     <file name="u3153-4.png" crc="4000831650" ref="reels"/>
     <file name="u3167-4.png" crc="146463986" ref="reels"/>
+    <file name="u3356-4.png" crc="352465515" ref="coc-epk"/>
     <file name="documentacion0325-crop-u3365.jpg" crc="3860933318" seo="true" ref="coc-epk">
       <caption webpage="coc-epk" alt=""/>
     </file>
-    <file name="u3356-4.png" crc="352465515" ref="coc-epk"/>
     <file name="installationlayout_v5.png" crc="4102071644" seo="true" ref="coc-epk:coc-techspecs">
       <caption webpage="coc-epk" alt=""/>
       <caption webpage="coc-techspecs" alt=""/>
@@ -372,9 +371,6 @@
     <file name="20190224_201122.jpg" crc="6702571" ref="coc-techspecs">
       <caption webpage="coc-techspecs" alt=""/>
     </file>
-    <file name="title.png" crc="151893736" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="157980449" seo="true" mt="1570849109382" redirect="true"/>
   <file name="von.html" crc="347707190" seo="true" mt="1570849109382" redirect="true"/>
@@ -386,13 +382,13 @@
   <file name="proto-floto.html" crc="204070862" seo="true" mt="1570849109382" redirect="true"/>
   <file name="getty-underworld.html" crc="513452654" seo="true" mt="1570849109382" redirect="true"/>
   <file name="immersive-media-reel.html" crc="503711379" seo="true" mt="1570849109382" redirect="true"/>
-  <file name="about.html" crc="447348401" seo="true" mt="1570849109382" redirect="true"/>
+  <file name="about.html" crc="4169505387" seo="true" mt="1579151394225" redirect="true"/>
   <file name="motion-reel.html" crc="3962162743" seo="true" mt="1570849109382" redirect="true"/>
   <file name="portfolio.html" crc="4052978177" seo="true" mt="1570849109382" redirect="true"/>
   <file name="compositing-reel.html" crc="3791511876" seo="true" mt="1570849109382" redirect="true"/>
   <file name="coc.html" crc="473709221" seo="true" mt="1570849109382" redirect="true"/>
-  <file name="coc-epk.html" crc="4283437262" seo="true" mt="1570849109382" redirect="true"/>
   <file name="gettyunshuttered-ii.html" crc="55558537" seo="true" mt="1570849109382" redirect="true"/>
   <file name="reels.html" crc="527137457" seo="true" mt="1570849109382" redirect="true"/>
+  <file name="coc-epk.html" crc="4283437262" seo="true" mt="1570849109382" redirect="true"/>
   <file name="coc-techspecs.html" crc="367900218" seo="true" mt="1570849109382" redirect="true"/>
 </manifest>
