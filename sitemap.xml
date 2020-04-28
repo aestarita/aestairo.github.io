@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aestarita.com/index.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/von.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/maad.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gg.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gettyunshuttered.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/pressure-points.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/shifting.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/proto-floto.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +137,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/getty-underworld.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,40 +149,37 @@
   </url>
   <url>
     <loc>http://aestarita.com/immersive-media-reel.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/about.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aestarita.com/images/profile-crop-u1341.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aestarita.com/motion-reel.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/portfolio.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/compositing-reel.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aestarita.com/coc.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -230,7 +227,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/gettyunshuttered-ii.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -238,14 +235,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aestarita.com/reels.html</loc>
-    <lastmod>2020-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://aestarita.com/coc-epk.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -278,7 +269,7 @@
   </url>
   <url>
     <loc>http://aestarita.com/coc-techspecs.html</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -290,5 +281,11 @@
     <image:image>
       <image:loc>http://aestarita.com/images/installationlayout_verticalversion-crop-u3619.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aestarita.com/commercial.html</loc>
+    <lastmod>2020-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
