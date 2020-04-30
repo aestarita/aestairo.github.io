@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1588280110778">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aestarita.com" resolutions="1x" timestamp="1588280578339">
   <folder name="css">
-    <file name="site_global.css" crc="61973917"/>
+    <file name="site_global.css" crc="347628717"/>
     <file name="master_commercial.css" crc="451917056" ref="commercial"/>
     <file name="master_portfolio.css" crc="290550761" ref="portfolio:index"/>
     <file name="master_a-master.css" crc="465888171" ref="portfolio:coc-techspecs:pressure-points:gettyunshuttered:gettyunshuttered-ii:coc-epk:index:about:motion-reel:immersive-media-reel:maad:commercial:getty-underworld:gg:coc:von:proto-floto:compositing-reel:shifting:laboratory:beginnigns"/>
-    <file name="master_about.css" crc="3968846306" ref="about"/>
+    <file name="master_about.css" crc="418805131" ref="about"/>
     <file name="portfolio.css" crc="3856097053" ref="portfolio"/>
     <file name="coc-techspecs.css" crc="4230424895" ref="coc-techspecs"/>
     <file name="iefonts_coc-techspecs.css" crc="304667904" ref="coc-techspecs"/>
@@ -15,8 +15,8 @@
     <file name="coc-epk.css" crc="3873121803" ref="coc-epk"/>
     <file name="iefonts_coc-epk.css" crc="103823232" ref="coc-epk"/>
     <file name="index.css" crc="3856097053" ref="index"/>
-    <file name="about.css" crc="108942632" ref="about"/>
-    <file name="iefonts_about.css" crc="357332300" ref="about"/>
+    <file name="about.css" crc="4182259318" ref="about"/>
+    <file name="iefonts_about.css" crc="535684109" ref="about"/>
     <file name="motion-reel.css" crc="516444362" ref="motion-reel"/>
     <file name="iefonts_motion-reel.css" crc="3787334582" ref="motion-reel"/>
     <file name="immersive-media-reel.css" crc="4005910691" ref="immersive-media-reel"/>
@@ -51,8 +51,9 @@
     <file name="require.js" crc="7928878" ref="index:von:maad:gg:gettyunshuttered:pressure-points:shifting:proto-floto:getty-underworld:immersive-media-reel:about:motion-reel:portfolio:compositing-reel:coc:gettyunshuttered-ii:coc-epk:coc-techspecs:commercial:laboratory:beginnigns"/>
   </folder>
   <folder name="images">
-    <file name="title.png" crc="151893736" ref="index">
+    <file name="title.png" crc="151893736" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="cocnormal_02.jpg" crc="352758923" ref="index">
       <caption webpage="index" alt=""/>
@@ -343,17 +344,21 @@
     <file name="unshuttered2rollover2.jpg" crc="181559308" ref="commercial">
       <caption webpage="commercial" alt=""/>
     </file>
-    <file name="projects.png" crc="3890825262" ref="index">
+    <file name="projects.png" crc="3890825262" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="commercial.png" crc="438303425" ref="index">
+    <file name="commercial.png" crc="438303425" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="laboratory.png" crc="4040098394" ref="index">
+    <file name="laboratory.png" crc="4040098394" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="about.png" crc="23014211" ref="index">
+    <file name="about.png" crc="23014211" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="20190502_203558-u2341-fr.jpg" crc="4096723679" ref="coc"/>
   </folder>
@@ -367,7 +372,7 @@
   <file name="proto-floto.html" crc="500297167" seo="true" mt="1588279191813" redirect="true"/>
   <file name="getty-underworld.html" crc="292946586" seo="true" mt="1588279191813" redirect="true"/>
   <file name="immersive-media-reel.html" crc="4091366413" seo="true" mt="1588279191813" redirect="true"/>
-  <file name="about.html" crc="4050033872" seo="true" mt="1588279191813" redirect="true"/>
+  <file name="about.html" crc="530636763" seo="true" mt="1588280521543" redirect="true"/>
   <file name="motion-reel.html" crc="12883810" seo="true" mt="1588279191813" redirect="true"/>
   <file name="portfolio.html" crc="265444737" seo="true" mt="1588279846768" redirect="true"/>
   <file name="compositing-reel.html" crc="3760656186" seo="true" mt="1588279191813" redirect="true"/>
