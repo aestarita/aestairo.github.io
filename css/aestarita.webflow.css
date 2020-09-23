@@ -834,22 +834,6 @@ body {
   background-image: url('../images/vonrolliover-u9489-r-fr.jpg');
 }
 
-.portfolionone.fpcard {
-  background-image: url('../images/ProtoFlotoNormal.jpg');
-}
-
-.portfolionone.fpcard:hover {
-  background-image: url('../images/ProtoFlotoRollOver.jpg');
-}
-
-.portfolionone.protofloto {
-  background-image: url('../images/still2.jpg');
-}
-
-.portfolionone.protofloto:hover {
-  background-image: url('../images/ProtoFlotoRollOver.jpg');
-}
-
 .portfolionone.flotonormal {
   background-image: url('../images/ProtoFlotoNormal.jpg');
 }
@@ -907,12 +891,6 @@ body {
   .div-block-24 {
     padding-right: 60px;
     padding-left: 60px;
-  }
-  .portfolionone.protofloto {
-    background-image: url('../images/ProtoFlotoNormal.jpg');
-  }
-  .portfolionone.protofloto:hover {
-    background-image: url('../images/ProtoFlotoRollOver.jpg');
   }
   .div-block-25 {
     padding-left: 60px;
@@ -5513,7 +5491,7 @@ body {
     -ms-grid-column-span: 2;
     grid-column-end: span 2;
   }
-  #w-node-b4d701bb87d6-f75462ac {
+  #w-node-d4237dd459c0-f75462ac {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
@@ -5523,7 +5501,7 @@ body {
     -ms-grid-column-span: 2;
     grid-column-end: span 2;
   }
-  #w-node-d4237dd459c0-f75462ac {
+  #w-node-b4d701bb87d6-f75462ac {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
