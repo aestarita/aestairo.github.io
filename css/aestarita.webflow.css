@@ -3253,6 +3253,17 @@ body {
   justify-self: center;
 }
 
+#w-node-6c7866cf53a1-d2bae7c2 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+}
+
 #w-node-1b4afb850ebd-d2bae7c2 {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
