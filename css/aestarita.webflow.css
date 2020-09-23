@@ -438,7 +438,7 @@ body {
   grid-template-rows: auto;
 }
 
-.grid-23 {
+.meetmegrid {
   -ms-grid-columns: 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   -ms-grid-rows: auto;
