@@ -453,11 +453,6 @@ body {
 
 .div-block-8 {
   position: relative;
-  background-image: url('../images/Vimeo_WEB.png');
-  background-position: 50% 50%;
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
   -o-object-fit: scale-down;
   object-fit: scale-down;
 }
@@ -474,10 +469,6 @@ body {
 
 .div-block-9 {
   position: relative;
-  background-image: url('../images/Instagram_WEB.png');
-  background-position: 50% 50%;
-  background-size: 50%;
-  background-repeat: no-repeat;
 }
 
 .link-block-2 {
@@ -490,10 +481,6 @@ body {
 
 .div-block-10 {
   position: relative;
-  background-image: url('../images/LinkedIN_WEB.png');
-  background-position: 50% 50%;
-  background-size: 50%;
-  background-repeat: no-repeat;
 }
 
 .link-block-3 {
@@ -506,10 +493,6 @@ body {
 
 .div-block-11 {
   position: relative;
-  background-image: url('../images/Email_WEB2.png');
-  background-position: 50% 50%;
-  background-size: 50%;
-  background-repeat: no-repeat;
 }
 
 .link-block-4 {
@@ -1295,6 +1278,42 @@ body {
 }
 
 #w-node-3403aedfd164-aedfd15d {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-3403aedfd166-aedfd15d {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-3403aedfd169-aedfd15d {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-3403aedfd16c-aedfd15d {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+#w-node-3403aedfd16f-aedfd15d {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
