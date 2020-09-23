@@ -453,6 +453,9 @@ body {
 
 .div-block-8 {
   position: relative;
+  background-image: url('../images/Vimeo_WEB.png');
+  background-position: 50% 50%;
+  background-size: auto;
   -o-object-fit: scale-down;
   object-fit: scale-down;
 }
@@ -469,6 +472,9 @@ body {
 
 .div-block-9 {
   position: relative;
+  background-image: url('../images/Instagram_WEB.png');
+  background-position: 50% 50%;
+  background-size: auto;
 }
 
 .link-block-2 {
@@ -481,6 +487,9 @@ body {
 
 .div-block-10 {
   position: relative;
+  background-image: url('../images/LinkedIN_WEB.png');
+  background-position: 50% 50%;
+  background-size: auto;
 }
 
 .link-block-3 {
@@ -493,6 +502,9 @@ body {
 
 .div-block-11 {
   position: relative;
+  background-image: url('../images/Email_WEB2.png');
+  background-position: 50% 50%;
+  background-size: auto;
 }
 
 .link-block-4 {
