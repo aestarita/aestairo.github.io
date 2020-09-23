@@ -455,7 +455,9 @@ body {
   position: relative;
   background-image: url('../images/Vimeo_WEB.png');
   background-position: 50% 50%;
-  background-size: auto;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
   -o-object-fit: scale-down;
   object-fit: scale-down;
 }
@@ -474,7 +476,8 @@ body {
   position: relative;
   background-image: url('../images/Instagram_WEB.png');
   background-position: 50% 50%;
-  background-size: auto;
+  background-size: 50%;
+  background-repeat: no-repeat;
 }
 
 .link-block-2 {
@@ -489,7 +492,8 @@ body {
   position: relative;
   background-image: url('../images/LinkedIN_WEB.png');
   background-position: 50% 50%;
-  background-size: auto;
+  background-size: 50%;
+  background-repeat: no-repeat;
 }
 
 .link-block-3 {
@@ -504,7 +508,8 @@ body {
   position: relative;
   background-image: url('../images/Email_WEB2.png');
   background-position: 50% 50%;
-  background-size: auto;
+  background-size: 50%;
+  background-repeat: no-repeat;
 }
 
 .link-block-4 {
@@ -1200,6 +1205,14 @@ body {
   .div-block-7 {
     padding-right: 30px;
     padding-left: 30px;
+  }
+  .meetmegrid {
+    justify-items: stretch;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    grid-column-gap: 0px;
   }
   .button {
     font-size: 12px;
@@ -4237,6 +4250,10 @@ body {
 }
 
 @media screen and (max-width: 767px) {
+  #w-node-3403aedfd172-aedfd15d {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
   #w-node-1371b4221899-b4221895 {
     -ms-grid-column-align: center;
     justify-self: center;
