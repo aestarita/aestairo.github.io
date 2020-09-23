@@ -438,6 +438,13 @@ body {
   grid-template-rows: auto;
 }
 
+.grid-23 {
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
 .text-block-2 {
   font-family: Lato, sans-serif;
   font-size: 13px;
@@ -827,8 +834,16 @@ body {
   background-image: url('../images/vonrolliover-u9489-r-fr.jpg');
 }
 
-.portfolionone.protofloto {
+.portfolionone.fpcard {
   background-image: url('../images/Proto-FlotoNormal.jpg');
+}
+
+.portfolionone.fpcard:hover {
+  background-image: url('../images/Proto-FlotoRollOver.jpg');
+}
+
+.portfolionone.protofloto {
+  background-image: url('../images/still2.jpg');
 }
 
 .portfolionone.protofloto:hover {
@@ -859,13 +874,6 @@ body {
 .div-block-25 {
   padding-right: 0px;
   padding-left: 0px;
-}
-
-.socialgrid {
-  -ms-grid-columns: 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  -ms-grid-rows: auto;
-  grid-template-rows: auto;
 }
 
 @media screen and (min-width: 1280px) {
