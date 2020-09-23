@@ -835,11 +835,11 @@ body {
 }
 
 .portfolionone.fpcard {
-  background-image: url('../images/Proto-FlotoNormal.jpg');
+  background-image: url('../images/ProtoFlotoNormal.jpg');
 }
 
 .portfolionone.fpcard:hover {
-  background-image: url('../images/Proto-FlotoRollOver.jpg');
+  background-image: url('../images/ProtoFlotoRollOver.jpg');
 }
 
 .portfolionone.protofloto {
@@ -847,7 +847,15 @@ body {
 }
 
 .portfolionone.protofloto:hover {
-  background-image: url('../images/Proto-FlotoRollOver.jpg');
+  background-image: url('../images/ProtoFlotoRollOver.jpg');
+}
+
+.portfolionone.flotonormal {
+  background-image: url('../images/ProtoFlotoNormal.jpg');
+}
+
+.portfolionone.flotonormal:hover {
+  background-image: url('../images/ProtoFlotoRollOver.jpg');
 }
 
 .portofoliorollover {
@@ -901,10 +909,10 @@ body {
     padding-left: 60px;
   }
   .portfolionone.protofloto {
-    background-image: url('../images/Proto-FlotoNormal.jpg');
+    background-image: url('../images/ProtoFlotoNormal.jpg');
   }
   .portfolionone.protofloto:hover {
-    background-image: url('../images/Proto-FlotoRollOver.jpg');
+    background-image: url('../images/ProtoFlotoRollOver.jpg');
   }
   .div-block-25 {
     padding-left: 60px;
