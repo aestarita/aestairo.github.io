@@ -5515,5 +5515,15 @@ body {
     -ms-grid-column-span: 2;
     grid-column-end: span 2;
   }
+  #w-node-d4237dd459c0-f75462ac {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2;
+  }
 }
 
