@@ -457,50 +457,12 @@ body {
   object-fit: scale-down;
 }
 
-.link-block {
-  position: absolute;
-  left: 0%;
-  top: 0%;
-  right: 0%;
-  bottom: 0%;
-  -o-object-fit: fill;
-  object-fit: fill;
-}
-
 .div-block-9 {
   position: relative;
 }
 
-.link-block-2 {
-  position: absolute;
-  left: 0%;
-  top: 0%;
-  right: 0%;
-  bottom: 0%;
-}
-
 .div-block-10 {
   position: relative;
-}
-
-.link-block-3 {
-  position: absolute;
-  left: 0%;
-  top: 0%;
-  right: 0%;
-  bottom: 0%;
-}
-
-.div-block-11 {
-  position: relative;
-}
-
-.link-block-4 {
-  position: absolute;
-  left: 0%;
-  top: 0%;
-  right: 0%;
-  bottom: 0%;
 }
 
 .button {
