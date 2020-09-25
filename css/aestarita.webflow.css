@@ -42,7 +42,7 @@ body {
 
 .container {
   padding-bottom: 60px;
-  border-radius: 6px;
+  border-radius: 1px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#7b76d0), to(#2f71bc));
   background-image: linear-gradient(180deg, #7b76d0, #2f71bc);
 }
@@ -468,7 +468,7 @@ body {
 .button {
   padding-right: 30px;
   padding-left: 30px;
-  border-radius: 6px;
+  border-radius: 1px;
   background-color: transparent;
   font-family: Lato, sans-serif;
   color: #515151;
@@ -612,7 +612,7 @@ body {
 
 .div-block-17 {
   border: 3px solid #eaf8ff;
-  border-radius: 12px;
+  border-radius: 1px;
   cursor: pointer;
 }
 
@@ -687,7 +687,7 @@ body {
   border-style: solid;
   border-width: 2px 2px 3px;
   border-color: #000 #000 #515151;
-  border-radius: 6px;
+  border-radius: 1px;
 }
 
 .grid-37 {
@@ -742,6 +742,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  border-radius: 1px;
   background-image: url('../images/VGLongNormal.jpg');
   background-position: 50% 50%;
   background-size: contain;
@@ -811,6 +812,7 @@ body {
 .portofoliorollover {
   width: 100.0000028049245%;
   height: 100.00013956299657%;
+  border-radius: 1px;
   opacity: 1;
 }
 
