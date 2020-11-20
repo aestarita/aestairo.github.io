@@ -901,6 +901,9 @@ body {
 }
 
 .rollover {
+  background-image: url('../images/MAADNormal.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
   opacity: 0;
 }
 
