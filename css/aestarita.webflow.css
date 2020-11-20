@@ -849,7 +849,7 @@ body {
 }
 
 .portfolionone.diversitynormal {
-  background-image: url('../images/DiversityNormal.jpg');
+  background-image: url('../images/MAADNormal.jpg');
   background-size: contain;
 }
 
@@ -1863,6 +1863,17 @@ body {
 }
 
 #w-node-c015e852c6cc-ae819103 {
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+}
+
+#w-node-152580814d89-ae819103 {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
@@ -5053,6 +5064,17 @@ body {
     grid-column-end: span 1;
   }
 
+  #w-node-152580814d89-ae819103 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
   #w-node-bfe25465fd21-ae819103 {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
@@ -6397,6 +6419,17 @@ body {
   }
 
   #w-node-c015e852c6cc-ae819103 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2;
+  }
+
+  #w-node-152580814d89-ae819103 {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
