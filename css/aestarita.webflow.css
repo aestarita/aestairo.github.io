@@ -849,7 +849,7 @@ body {
 }
 
 .portfolionone.diversitynormal {
-  background-image: url('../images/MAADNormal.jpg');
+  background-image: url('../images/MAADSimpleNormal.jpg');
   background-size: contain;
 }
 
@@ -877,7 +877,7 @@ body {
 }
 
 .portfolionone.maadcover {
-  background-image: url('../images/MAADNormal.jpg');
+  background-image: url('../images/MAADSimpleNormal.jpg');
 }
 
 .portfolionone.voncover {
@@ -900,7 +900,7 @@ body {
 }
 
 .rollover {
-  background-image: url('../images/MAADNormal.jpg');
+  background-image: url('../images/MAADSimpleNormal.jpg');
   background-position: 0px 0px;
   background-size: auto;
   opacity: 0;
