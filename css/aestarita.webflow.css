@@ -1062,6 +1062,8 @@ body {
   border-width: 0px;
   border-color: #e06aa7;
   background-color: #e06aa7;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e06aa7), to(#7b76d0));
+  background-image: linear-gradient(180deg, #e06aa7, #7b76d0);
   text-decoration: none;
   -o-object-fit: cover;
   object-fit: cover;
@@ -1070,13 +1072,16 @@ body {
 .landingpagelinkmd:hover {
   border-width: 0px;
   background-color: #ef99c5;
+  background-image: linear-gradient(344deg, #e06aa7, #7b76d0);
 }
 
 .landingpagelinkabout {
   border-style: solid;
   border-width: 0px;
   border-color: #f7931e;
-  background-color: #f7931e;
+  background-color: #7b76d0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7b76d0), to(#5fa1ec));
+  background-image: linear-gradient(180deg, #7b76d0, #5fa1ec);
   text-decoration: none;
   -o-object-fit: cover;
   object-fit: cover;
@@ -1084,7 +1089,8 @@ body {
 
 .landingpagelinkabout:hover {
   border-color: #eaf8ff;
-  background-color: #febb6d;
+  background-color: #a39fe4;
+  background-image: linear-gradient(354deg, #7b76d0, #5fa1ec);
 }
 
 .landingpagedescriptionme {
@@ -1103,10 +1109,13 @@ body {
 .iedwrapper {
   padding-bottom: 0px;
   background-color: #169db8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#169db8), to(#2f71bc));
+  background-image: linear-gradient(180deg, #169db8, #2f71bc);
 }
 
 .iedwrapper:hover {
   background-color: #4fb8cd;
+  background-image: linear-gradient(353deg, #169db8, #2f71bc);
 }
 
 .accordionieditem:hover {
